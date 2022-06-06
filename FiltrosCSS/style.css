@@ -1,0 +1,6 @@
+.image img {
+    filter: grayscale(100%);
+    filter: brightness();
+    filter: contrast();
+    filter: saturate()
+}

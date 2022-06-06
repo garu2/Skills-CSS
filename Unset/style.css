@@ -1,0 +1,14 @@
+body{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+}
+a {
+    text-decoration: none;
+    color: #000;
+    background-color: cyan;
+    padding: 6px 23px;
+    border-radius: 9px;
+
+    /* all: unset; */
+}

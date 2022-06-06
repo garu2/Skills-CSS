@@ -1,0 +1,10 @@
+body{
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+}
+
+a:empty::before {
+    content: attr(href);
+}
+
