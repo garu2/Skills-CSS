@@ -1,0 +1,21 @@
+body{
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+}
+ul {
+    list-style: none;
+}
+ul li::before {
+    content: "";
+    border-color: transparent #000;
+    border-style: solid;
+    border-width: 7px 0 7px 10px;
+    display: block;
+    width: 0;
+    position: relative;
+    left: -20px;
+    top: 18px;
+}
+
+
