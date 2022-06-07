@@ -1,0 +1,13 @@
+body{
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    width: 400px;
+    margin-left: 4%;
+}
+
+p::first-letter {
+    font-size: 40px;
+    color: blue;
+    text-shadow: 5px 5px 5px black;
+}
