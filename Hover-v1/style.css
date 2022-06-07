@@ -1,0 +1,28 @@
+body{
+    font-size: 22px;
+    /* font-family: 'Courier New', Courier, monospace; */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 800;
+
+    height: 100vh;
+  margin: 0;
+  display: grid;
+  place-content: center;
+}
+h2 {
+    --c: #1095c1; 
+    /* background-color: #1095c1; */
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    /* background: 
+    linear-gradient(90deg,#fff 50%,var(--c) 0) calc(100% - var(--_p,0%))/200% 100%,
+    linear-gradient(var(--c) 0 0) 0% 100%/var(--_p,0%) 100% no-repeat;  */
+    -webkit-background-clip: text,padding-box; 
+          background-clip: text,padding-box;
+    transition: 0.5s;
+    color: #0000;
+}
+h2:hover {
+    --_p: 100%
+  }
+
+
