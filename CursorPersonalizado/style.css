@@ -1,0 +1,18 @@
+body{
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin-left: 6%;
+    margin-top: 3%;
+}
+button {
+    width: 150px;
+    cursor: var(--pizza), auto;
+    cursor: var(--corazon), auto;
+}
+html {
+    cursor: var(--mano), auto;
+    --pizza: url("./images/pizza.png");
+    --mano: url("./images/hand.png");
+    --corazon: url("./images/heard.png");
+}
