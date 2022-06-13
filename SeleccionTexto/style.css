@@ -1,0 +1,14 @@
+body{
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    width: 40%;
+    margin-left: 4%;
+}
+
+p::selection {
+    color: blueviolet;
+    background-color: aquamarine;
+}
+
+
