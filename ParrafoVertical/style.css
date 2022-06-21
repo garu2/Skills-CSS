@@ -1,0 +1,9 @@
+body{
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 4%;
+}
+
+p {
+    writing-mode: vertical-lr;
+}
