@@ -1,0 +1,16 @@
+body{
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 4%;
+}
+
+p:last-of-type {
+    color: red;
+}
+p:first-of-type {
+    font-weight: 800;
+}
+p:last-child {
+    color: violet;
+}
+
