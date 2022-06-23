@@ -1,0 +1,28 @@
+body{
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 4%;
+    font-weight: 600;
+    margin-top: 8%;
+}
+
+span {
+    border-bottom: solid 2px #000;
+    position: relative;
+}
+span::after {
+    content: attr(tooltip);
+    position: absolute;
+    font-size: 15px;
+    top: -35px;
+    left: 0;
+    background-color: aquamarine;
+    border-radius: 5px;
+    display: none;
+}
+p span:hover::after {
+    display: block;
+}
+
+
+
