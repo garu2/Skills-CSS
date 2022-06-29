@@ -1,0 +1,15 @@
+body{
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin-left: 4%;
+    margin-top: 3%;
+}
+
+.box {
+    width: 50px;
+    height:100px;
+    background-color: green;
+    /* box-shadow: 0 50px red, 0 100px yellow; */
+    box-shadow: 50px 0 #fff, 100px 0 red;
+}

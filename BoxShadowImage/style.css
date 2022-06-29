@@ -1,0 +1,12 @@
+body{
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin-left: 4%;
+    margin-top: 3%;
+}
+
+img {
+    /* drop-shadow(x y blur color) */
+    filter: drop-shadow(10px 10px 30px gold);
+}
