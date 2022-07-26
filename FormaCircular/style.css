@@ -1,0 +1,17 @@
+body{
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin-top: 6%;
+    margin-left: 8%;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    aspect-ratio: 4/3;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+

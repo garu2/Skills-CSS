@@ -1,0 +1,21 @@
+body{
+    font-size: 17px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 6%;
+    margin-top: 4%;
+}
+div {
+    width: 250px;
+    height: 200px;
+    position: relative;
+    padding: 10px;
+}
+div::after {
+    content: "";
+    background-image: url(./images/dunas.jpg);
+    background-size: cover;
+    position: absolute;
+    inset: 0;
+    opacity: 0.5;
+    z-index: -1;
+}

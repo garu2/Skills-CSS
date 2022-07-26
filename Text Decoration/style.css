@@ -1,0 +1,17 @@
+body{
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin-left: 6%;
+    margin-right: 16%
+}
+
+a {
+    text-decoration-color: aqua;
+    text-decoration-thickness: 4px;
+    text-decoration-style: solid;
+}
+a:hover {
+    text-decoration-style: dotted;
+    text-decoration-color: orange;
+}
