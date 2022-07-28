@@ -1,0 +1,13 @@
+body{
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin-left: 4%;
+    margin-top: 3%;
+}
+
+textarea {
+    padding: 5px 14px;
+    font-size: 21px;
+    caret-color: orangered;
+}
