@@ -1,0 +1,23 @@
+body{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin-left: 4%;
+    margin-top: 3%;
+    display: flex;
+    gap: 10px;
+}
+div {
+    border: solid 2px #cecdcd;
+    padding: 8px 3px;
+    color: #5a5858;
+}
+
+.cr-waiting:hover { cursor: wait; }
+
+.cr-help:hover { cursor: help; }
+
+.cr-crosshair:hover { cursor: crosshair; }
+
+.cr-grab:hover { cursor: grab; }
+

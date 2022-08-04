@@ -4,11 +4,10 @@ body{
     font-weight: 600;
     margin-left: 4%;
     margin-top: 3%;
-    margin-right: 8%;
 }
 
-p {
-   columns: 3;
-   column-rule-style: solid; 
-   column-rule-color: blueviolet;
+img {
+    transform: rotateY(0deg);
+    transform: rotateX(0deg);
+    transform: rotate(360deg);
 }
