@@ -1,0 +1,13 @@
+body{
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin-left: 9%;
+    margin-top: 3%;
+}
+
+h1 {
+    word-break: break-all;
+    width: 40px;
+    line-height: 35px;
+}
