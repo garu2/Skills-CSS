@@ -1,0 +1,22 @@
+body{
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin-left: 4%;
+    margin-top: 3%;
+}
+
+
+section{
+    display: grid;
+    place-content: center;
+    /* display: flex;
+    justify-content: center; */
+}
+.box {
+    border: solid;
+    width: 200px;
+    /* margin: 0 auto; */
+    display: flex;
+    justify-content: center;
+}
