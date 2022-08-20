@@ -1,0 +1,21 @@
+body{
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin-left: 20%;
+    margin-top: 8%;
+}
+
+a {
+    background-color: blueviolet;
+    color: #fff;
+    text-decoration: none;
+    padding: 4px 12px;
+    border: solid 2px blueviolet;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+a:hover {
+    background-color: #fff;
+    color: blueviolet;
+}
