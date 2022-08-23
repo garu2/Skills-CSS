@@ -1,0 +1,12 @@
+body{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin-left: 4%;
+    margin-top: 3%;
+}
+
+p {
+    width: 300px;
+    text-align: justify;
+}
