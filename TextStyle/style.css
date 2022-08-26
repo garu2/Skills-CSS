@@ -1,0 +1,13 @@
+body{
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin-left: 9%;
+    margin-top: 6%;
+}
+
+p {
+    font-style: normal;
+    font-style: italic;
+    font-style: oblique;
+}
