@@ -1,0 +1,17 @@
+body{
+  font-size: 18px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 600;
+  margin-top: 6%;
+  margin-left: 4%;
+}
+
+img {
+  float: right;
+  margin-left: 15px;
+}
+p {
+  text-align: justify;
+}
+
+

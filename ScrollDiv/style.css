@@ -1,0 +1,13 @@
+body{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin-left: 8%;
+    margin-top: 3%;
+}
+div {
+  width: 300px;
+  height: 180px;
+  border: 1px solid gray;
+  overflow: auto;
+}
