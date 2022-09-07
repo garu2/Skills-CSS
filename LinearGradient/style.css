@@ -1,0 +1,16 @@
+body{
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin-left: 8%;
+    margin-top: 8%;
+}
+
+.box {
+  border: 1px solid gray;
+  width: 300px;
+  height: 200px;
+  /*lg(direccion, color %, color %)*/
+  background: 
+    linear-gradient(violet 10%, aqua 50%);
+}
