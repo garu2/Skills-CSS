@@ -1,0 +1,18 @@
+body{
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin-left: 6%;
+    margin-top: 3%;
+}
+
+.bg-image {
+    width: 400px;
+    height: 270px;
+    background-image: 
+    linear-gradient(#ffffff79, #ffffff79),
+    url(./rick-morty.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 10%;
+}
