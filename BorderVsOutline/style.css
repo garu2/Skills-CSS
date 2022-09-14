@@ -1,0 +1,19 @@
+body{
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin-left: 8%;
+    margin-top: 8%;
+}
+
+.box {
+  width: 200px;
+  height: 100px;
+  background-color: aquamarine;
+  border: 10px dashed blueviolet;
+  border-top: 10px dotted violet;
+  border-bottom: 20px double blue;
+  outline: 10px dotted gold;
+  outline-offset: 10px;
+  outline-style: outset;
+}
