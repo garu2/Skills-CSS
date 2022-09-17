@@ -1,0 +1,24 @@
+body{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin-left: 8%;
+    margin-top: 3%;
+}
+
+.box {
+    height: 150px; width: 200px;
+    border: 2px solid gray;
+    position: relative;
+    overflow: hidden;
+}
+.box:hover .child {
+    transform: translateX(-200px);
+}
+.child {
+    width: 200px; height: 50px;
+    background-color: aquamarine;
+    position: absolute;
+    right: -200px;
+    transition: 1s;
+}
