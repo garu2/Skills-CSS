@@ -1,0 +1,22 @@
+body{
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin-left: 13%;
+    margin-top: 3%;
+}
+ul {
+  list-style: none;
+}
+li { position: relative; }
+li:before {
+  content: "";
+  width: 20px;
+  height: 20px;
+  background-image: url(./iconStart.png);
+  background-size: 100%;
+  display: inline-block;
+  position: absolute;
+  left: -30px;
+  top: 3px;
+}
