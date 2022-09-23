@@ -1,0 +1,19 @@
+body{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin-left: 8%;
+    margin-top: 3%;
+}
+section {
+    border: 1px solid black;
+    width: 350px; height: 200px;
+    position: relative;
+}
+.box {
+    border: 2px solid blueviolet;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
