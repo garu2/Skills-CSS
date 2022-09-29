@@ -1,0 +1,19 @@
+body{
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin-left: 13%;
+    margin-top: 3%;
+}
+section {
+    border: 1px solid gray;
+    width: 400px; height: 300px;
+    overflow: auto;
+}
+.image {
+    height: 150px;
+    background-image: url(./sabana.jpg);
+    background-attachment: fixed;
+    background-size: contain;
+    background-position: center ;
+}
