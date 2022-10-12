@@ -1,0 +1,24 @@
+body{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin-left: 34%;
+    margin-top: 8%;
+}
+.toggle-box {
+  width: 70px; height: 40px;
+  background-color: blueviolet;
+  border-radius: 25px;
+  display: flex;
+  align-items: center;
+  padding: 0 2px;
+  cursor: pointer;
+}
+.circle {
+  background-color: #fff;
+  width: 35px; height: 35px;
+  border-radius: 50%;
+}
+.toggle-box.dark {
+  justify-content: right;
+}
