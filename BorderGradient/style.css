@@ -1,0 +1,18 @@
+body{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin-left: 19%;
+    margin-top: 5%;
+}
+
+.box {
+    width: 300px;
+    height: 100px;
+    border: 10px solid;
+    border-image-slice: 1;
+    border-image-source: 
+      linear-gradient(
+        to right, blueviolet, pink
+      );
+}
