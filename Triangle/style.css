@@ -1,0 +1,16 @@
+body{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin-left: 29%;
+    margin-top: 9%;
+}
+
+.triangle {
+  width: 0px;
+  height: 0px;
+  /* background-color: aqua; */
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 100px solid blueviolet;
+}
