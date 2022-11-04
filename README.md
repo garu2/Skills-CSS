@@ -3,7 +3,7 @@
    <img height="100" src="https://res.cloudinary.com/dqd5x0s7w/image/upload/v1667315329/github/css-tips_urqtz3.png" alt="css image">
 
  <h1>Tips CSS</h1>
- Una colección de tips para ayudarlo a mejorar sus habilidades de CSS.
+ ⚡️⭐️🌟Una colección de tips para ayudarte a mejorar sus habilidades de CSS.🌟⭐️⚡️
 </div>
 
 ## Tips
@@ -21,7 +21,7 @@
 1. [Change Color Cursor in textarea](#change-color-cursor-in-textarea)
 1. [Divide Paragraph in 3 columns](#divide-paragraph-in-3-columns)
 1. [Cursor del maus Personalizado](#cursor-del-maus-personalizado)
-1. [Valores de la Propidad Cursor](#valores-de-la-propidad-cursor)
+1. [Valores de la Propiedad Cursor](#valores-de-la-propiedad-cursor)
 1. [Destacar primera Letra](#destacar-primera-letra)
 1. [Enumerar Headings](#enumerar-headings)
 1. [Cambiar el Color de una Imagen](#cambiar-el-color-de-una-imagen)
@@ -66,8 +66,8 @@ p {
 	text-align: right;
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7142172810415295750?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7142172810415295750?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Background Image con Overlay
@@ -88,8 +88,8 @@ p {
 	background-position: 0  10%;
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7156711163252706565?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7156711163252706565?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 
@@ -107,8 +107,7 @@ p {
 	border-image-source: linear-gradient(to right, blueviolet, pink);
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
 
 ---
 ### Border vs Outline
@@ -131,8 +130,8 @@ p {
 	outline-style: outset;
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7155478970203409670?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7155478970203409670?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Box Shadow (Ej: Bandera 🇲🇽)
@@ -148,8 +147,8 @@ p {
 	box-shadow: 50px  0px  white, 100px  0px  red;
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7124004364804558086?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7124004364804558086?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Box Shadow to Image
@@ -163,8 +162,8 @@ img {
 	filter: drop-shadow(10px  10px  30px  gold);
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7121687655506611461?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7121687655506611461?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Button Style
@@ -187,8 +186,8 @@ a:hover {
 	color: blueviolet;
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7140709211977075974?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7140709211977075974?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Center DIV with Flex
@@ -213,8 +212,8 @@ section {
 	justify-content: center;
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7138089519508622597?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7138089519508622597?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Center DIV with Position
@@ -268,8 +267,8 @@ section {
 	margin: auto  0;
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7148561147178781958?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7148561147178781958?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Dinamic Checkbox 
@@ -289,7 +288,7 @@ span::after {
 	content: "😀";
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
 
 ---
 ### Change Color Cursor in textarea
@@ -304,8 +303,8 @@ textarea {
 	caret-color: orangered;
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7137035951871724806?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7137035951871724806?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Divide Paragraph in 3 columns
@@ -324,8 +323,8 @@ p {
 	column-rule-color: blueviolet;
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7129241523035639045?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7129241523035639045?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Cursor del maus Personalizado
@@ -346,11 +345,11 @@ html {
 	--corazon: url("./images/heard.png");
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7112623043570158854?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7112623043570158854?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
-### Valores de la Propidad Cursor
+### Valores de la Propiedad Cursor
 
 ```html
 <body>
@@ -371,8 +370,8 @@ div {
 .cr-crosshair:hover { cursor: crosshair; }
 .cr-grab:hover { cursor: grab; }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7131797063527959814?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7131797063527959814?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Destacar primera Letra
@@ -390,8 +389,8 @@ p::first-letter {
 	text-shadow: 5px  5px  5px  black;
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7112979625520794886?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7112979625520794886?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Enumerar Headings
@@ -413,8 +412,8 @@ h1:before {
 	counter-increment: heading;
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7111140941829819654?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7111140941829819654?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Cambiar el Color de una Imagen
@@ -432,8 +431,8 @@ h1:before {
 	filter: saturate()
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7113334278645206277?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7113334278645206277?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Forma Circular a una Imagen
@@ -450,8 +449,8 @@ img {
 	border-radius: 50%;
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7127986598993612037?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7127986598993612037?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Cambiar la Imagen con un Hover
@@ -478,8 +477,8 @@ img {
 	opacity: 0;
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7117341080089021701?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7117341080089021701?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Mostrar un Atributo como Valor
@@ -496,8 +495,8 @@ a:empty::before {
 	content: attr(href);
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7112258229052165381?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7112258229052165381?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Cambiar los iconos de una lista "ul"
@@ -527,8 +526,8 @@ li:before {
 	top: 3px;
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7150126448420867334?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7150126448420867334?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Como rotar una imagen
@@ -546,8 +545,8 @@ img {
 	transform: rotate(360deg);
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7132885484707007749?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7132885484707007749?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Estilizar un Input "email"
@@ -576,8 +575,8 @@ input {
 	color: blueviolet;
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7159004164352216325?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7159004164352216325?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Diferencia entre `last-of-type` y `last-child`
@@ -601,8 +600,8 @@ p:last-child {
 	color: violet;
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7122609043448941830?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7122609043448941830?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Linear Gradient "Degradado"
@@ -620,8 +619,8 @@ p:last-child {
 	linear-gradient(violet  10%, aqua  50%);
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7153993063839452422?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7153993063839452422?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Background with Opacity in Image
@@ -649,8 +648,8 @@ div::after {
 	z-index: -1;
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7135540971202153733?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7135540971202153733?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Flex Order
@@ -676,7 +675,7 @@ div::after {
 .c-2 { order: 4; }
 .c-3 { order: 9; }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
 
 ---
 ### Paralax
@@ -703,7 +702,7 @@ section {
 	background-position: center ;
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
 
 ---
 ### Vertical Word
@@ -719,8 +718,8 @@ p, h2 {
 	writing-mode: vertical-lr;
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7116661910111538438?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7116661910111538438?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Overflow Scroll
@@ -739,8 +738,8 @@ div {
 	overflow: auto;
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7139616834633911557?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7139616834633911557?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Customizar la seleccion de texto
@@ -758,8 +757,8 @@ p::selection {
 	background-color: aquamarine;
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7114439205094280453?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7114439205094280453?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Separador de una Lista
@@ -782,8 +781,8 @@ ul > li:not(:last-child)::after{
 	content: "-";
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7114068125536029958?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7114068125536029958?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Text Decoration
@@ -807,8 +806,8 @@ a:hover {
 	text-decoration-color: orange;
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7134351812777217286?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7134351812777217286?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Alinear Texto y Imagen
@@ -830,8 +829,8 @@ p {
 	text-align: justify;
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7143547014674976005?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7143547014674976005?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Font Style
@@ -846,8 +845,8 @@ p {
 	font-style: oblique;
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7145024517876780293?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7145024517876780293?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Text Transform
@@ -862,8 +861,8 @@ h2 {
 	text-transform: capitalize;
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7120011224917478661?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7120011224917478661?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Toggle
@@ -899,7 +898,7 @@ toggle.addEventListener('click', () => {
 	toggle.classList.toggle("dark")
 })
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
 
 ---
 ### ToolTip
@@ -929,8 +928,8 @@ p  span:hover::after {
 	display: block;
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7125940974475332869?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7125940974475332869?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Slide Effect
@@ -958,8 +957,8 @@ p  span:hover::after {
 	transition: 1s;
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7147351505329261830?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7147351505329261830?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Triangulo con CSS
@@ -977,8 +976,8 @@ p  span:hover::after {
 	border-bottom: 100px  solid  blueviolet;
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7160855412579863814?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7160855412579863814?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Agregar tres puntos al final de un texto
@@ -998,8 +997,8 @@ p {
 	width: 200px;
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7115030819466398982?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7115030819466398982?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### All Unset
@@ -1016,8 +1015,8 @@ a {
 	/* all: unset; */
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7115806299215990022?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7115806299215990022?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Viñetas Triangulares
@@ -1046,8 +1045,8 @@ ul  li::before {
 	top: 18px;
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7111666171958627589?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7111666171958627589?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Word Break
@@ -1062,16 +1061,16 @@ h1 {
 	line-height: 35px;
 }
 ```
-<sup>⬆️ [back to table of contents](#tips)</sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7130379186627153157?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7130379186627153157?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 
 <a href="https://github.com/garu2/Skills-CSS">
-  <table >
+  <table align="center" >
       <tr>
           <td>
-            👉 &nbsp;&nbsp;### <strong>Si te sirvió Deja Tu:</strong> ⭐️
+            👉 &nbsp;&nbsp; <strong>Si te sirvió Deja Tu:</strong> ⭐️
           </td>
       </tr>
   </table>
