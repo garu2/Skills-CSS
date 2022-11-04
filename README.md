@@ -67,7 +67,7 @@ p {
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
-<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7142172810415295750?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7142172810415295750?is_copy_url=1&is_from_webapp=v1&lang=es" target="_blank">Video Explicación</a></sup>
 
 ---
 ### Background Image con Overlay
