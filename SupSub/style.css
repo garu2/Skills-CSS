@@ -1,0 +1,15 @@
+body{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    margin-left: 14%;
+    margin-top: 4%;
+}
+
+sub {
+  color: cyan;
+}
+sup { 
+  color: red;
+  font-size: 18px;
+}
