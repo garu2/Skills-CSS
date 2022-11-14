@@ -1,0 +1,15 @@
+body{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin-left: 10%;
+    margin-top: 3%;
+    margin-right: 44%;
+}
+
+p::first-letter {
+  font-size: 80px;
+  float: left;
+  line-height: 60px;
+  margin-right: 16px;
+}
