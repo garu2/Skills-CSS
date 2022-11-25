@@ -1,0 +1,19 @@
+body{
+    font-size: 35px;
+    /* font-family: 'Courier New', Courier, monospace; */
+    font-weight: 600;
+    margin-left: 12%;
+    margin-right: 30%;
+    margin-top: 6%;
+}
+
+h2 {
+  width: fit-content;
+  background: 
+    linear-gradient(
+      to left,blueviolet,cyan
+    );
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
