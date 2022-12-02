@@ -1,0 +1,23 @@
+body{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin-left: 8%;
+    margin-right: 18%;
+    margin-top: 5%;
+}
+
+div {
+  width: 400px; height: 200px;
+  overflow: auto;
+}
+::-webkit-scrollbar {
+    width: 15px;
+}
+::-webkit-scrollbar-track {
+    background: gold;
+}
+::-webkit-scrollbar-thumb {
+    background: blueviolet;
+    border-radius: 15px;
+}
