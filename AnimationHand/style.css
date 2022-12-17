@@ -1,0 +1,24 @@
+body{
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin-left: 18%;
+    margin-top: 3%;
+}
+
+span{
+  transform: rotate(-40deg);
+  display: inline-block;
+  animation: 1s infinite alternate movehand;
+}
+@keyframes movehand {
+  0% {
+    transform:rotate(-40deg) translate(10px);
+  }
+  50% {
+    transform:rotate(-40deg) translate(0px);
+  }
+  100% {
+    transform:rotate(-40deg) translate(10px);
+  }
+}

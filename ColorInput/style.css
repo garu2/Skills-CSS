@@ -1,0 +1,18 @@
+body{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin-left: 45%;
+    margin-top: 1%;
+}
+
+
+input {
+    accent-color: gold;
+}
+input[type=radio] {
+    accent-color: blueviolet;
+}
+input[type=range] {
+    accent-color: cyan;
+}
