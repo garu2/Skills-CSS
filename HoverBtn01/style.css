@@ -1,0 +1,23 @@
+body{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    margin-left: 16%;
+    margin-top: 5%;
+}
+
+a {
+  border: 3px solid gold;
+  text-decoration: none;
+  padding: 20px;
+  color: #000;
+  background: linear-gradient(
+    45deg, gold 50%, transparent 50%
+  );
+  background-position: 100%;
+  background-size: 250%;
+  transition: 0.5s background
+}
+a:hover {
+  background-position: 0;
+}
