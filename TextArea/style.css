@@ -1,0 +1,17 @@
+body{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin-left: 38%;
+    margin-top: 4%;
+}
+
+p { color: darkslateblue; }
+span { color: blueviolet }
+textarea {
+    border: 2px solid #000;
+    resize: both;
+    resize: horizontal;
+    resize: vertical;
+    resize: none;
+}

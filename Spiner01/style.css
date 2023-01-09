@@ -1,0 +1,23 @@
+body{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin-left: 18%;
+    margin-top: 3%;
+}
+
+.spinner {
+  width: 80px; height: 80px;
+  border: 10px solid blueviolet;
+  border-top: 10px solid plum;
+  border-radius: 50%;
+  animation: 1s linear infinite spiner;
+}
+@keyframes spiner {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
