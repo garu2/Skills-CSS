@@ -6,8 +6,6 @@ body{
     margin-top: 4%;
 }
 
-p { color: darkslateblue; }
-span { color: blueviolet }
 textarea {
     border: 2px solid #000;
     resize: both;

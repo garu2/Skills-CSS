@@ -52,8 +52,22 @@
 1. [All Unset](#all-unset)
 1. [Viñetas Triangulares](#vietas-triangulares)
 1. [Word Break](#word-break)
+1. [Repeating Linear Gradient](#repeating-linear-gradient)
+1. [Subíndice y Superíndice](#subíndice-y-superíndice)
+1. [Letra Capital](#letra-capital)
+1. [Neon Effect](#neon-effect)
+1. [Text Gradient](#text-gradient)
+1. [Image Blur](#image-blur)
+1. [Custon ScrollBar](#custon-scrollBar)
+1. [Animation Emoji](#animation-emoji)
+1. [Change Input Color](#change-input-color)
+1. [Btn Hover 01](#btn-hover-01)
+1. [Image Mirror](#image-mirror)
+1. [Spinner](#spinner)
+1. [Text Area Resize](#text-area-resize)
 
 ---
+
 ### Align Text
 
 La propiedad `text-align` nos ayuda a alinear horizontalmente,  sus propiedades mas usadas son: `center`, `justify`, `left`, `right`, `end`, `start`.
@@ -70,14 +84,16 @@ p {
 <sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7142172810415295750?is_copy_url=1&is_from_webapp=v1&lang=es" target="_blank">Video Explicación</a></sup>
 
 ---
+
 ### Background Image con Overlay
 
 ```html
 <div class="bg-image">
-	<h3>Title</h3>
-	<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tempora maxime deserunt ea corrupti sequi dignissimos voluptate asperiores</p>
+ <h3>Title</h3>
+ <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima tempora maxime deserunt ea corrupti sequi dignissimos voluptate asperiores</p>
 </div>
 ```
+
 ```css
 .bg-image {
 	width: 400px;
@@ -108,7 +124,7 @@ p {
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
-
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7165603686092197126?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 ---
 ### Border vs Outline
 
@@ -289,7 +305,7 @@ span::after {
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
-
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7168220377687133445?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 ---
 ### Change Color Cursor in textarea
 
@@ -676,6 +692,7 @@ div::after {
 .c-3 { order: 9; }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7166651035304447237?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Paralax
@@ -703,6 +720,7 @@ section {
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7169251986280369413?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 
 ---
 ### Vertical Word
@@ -899,6 +917,8 @@ toggle.addEventListener('click', () => {
 })
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7162731438821920006?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación 1</a></sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7164408226119716102?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación 2</a></sup>
 
 ---
 ### ToolTip
@@ -1063,6 +1083,301 @@ h1 {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7130379186627153157?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+
+---
+### Repeating Linear Gradient
+
+```html
+<div class="box-bg"></div>
+```
+```css
+.box-bg {
+  	border: 1px solid gray;
+  	width: 400px; height: 200px;
+  	background: repeating-linear-gradient(
+      	45deg,
+      	tomato 0px,
+      	tomato 20px,
+      	white 20px,
+     	 white 40px
+	);
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7176053681127771398?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+
+---
+### Subíndice y Superíndice
+
+```html
+<h2>CO<sub>2</sub></h2>
+<h2>E = mc<sup>2</sup></h2>
+```
+```css
+sub {
+  color: cyan;
+}
+sup { 
+  color: red;
+  font-size: 18px;
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7174586662406589701?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+
+---
+### Letra Capital
+
+```html
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu sem tempor, varius quam at, luctus dui.  Mauris magna metus, dapibus nec turpis vel, semper malesuada ante. 
+</p>
+```
+```css
+p::first-letter {
+  font-size: 80px;
+  float: left;
+  line-height: 60px;
+  margin-right: 16px;
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7171947172156476677?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+
+---
+### Neon Effect
+
+```html
+<div class="neon"></div>
+```
+```css
+.neon {
+  width: 350px;
+  height: 15px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 5px cyan,
+              0 0 25px cyan,
+              0 0 50px cyan,
+              0 0 100px cyan;
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7170842024160136453?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+
+---
+### Text Gradient
+
+```html
+<h2>Gradient Text</h2>
+```
+```css
+h2 {
+  width: fit-content;
+  background: linear-gradient(to left,blueviolet,cyan);
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7173300753975512326?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+
+---
+### Image Blur
+
+```html
+<div class="bg-box">
+  <div class="glass">
+    <p>Merry Christmas</p>
+  </div>
+</div>
+```
+```css
+.bg-box {
+  width: 400px; height: 250px;
+  background-image: url(./example.jpg);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.glass {
+  background-color: #ffffff44;
+  backdrop-filter: blur(5px);
+  padding: 0 20px;
+  border-radius: 9px;
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7178692241635020037?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+
+---
+### Custon ScrollBar
+
+```html
+<div>
+  Lorem ipsum dolor sit amet, consectetur 
+  adipiscing elit. Nam eu sem tempor, varius quam at, luctus dui. Mauris magna metus, dapibus nec turpis vel, semper malesuada ante. 
+  adipiscing elit. Nam eu sem tempor, varius quam at, luctus dui. Mauris magna metus, dapibus nec turpis vel, semper malesuada ante. 
+  adipiscing elit. Nam eu sem tempor, varius quam at, luctus dui. Mauris magna metus, dapibus nec turpis vel, semper malesuada ante. 
+</div>
+```
+```css
+div {
+  width: 400px; height: 200px;
+  overflow: auto;
+}
+::-webkit-scrollbar {
+  width: 15px;
+}
+::-webkit-scrollbar-track {
+  background: gold;
+}
+::-webkit-scrollbar-thumb {
+  background: blueviolet;
+  border-radius: 15px;
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7181215333087333637?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+
+---
+### Animation Emoji
+
+```html
+<h1><span>✋</span> Hello!</h1>
+```
+```css
+span{
+  transform: rotate(-40deg);
+  display: inline-block;
+  animation: 1s infinite alternate movehand;
+}
+@keyframes movehand {
+  0% {
+    transform:rotate(-40deg) translate(10px);
+  }
+  50% {
+    transform:rotate(-40deg) translate(0px);
+  }
+  100% {
+    transform:rotate(-40deg) translate(10px);
+  }
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7183830744941202694?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+
+---
+### Change Input Color
+
+```html
+<form>
+  <label>Checkbox:</label>
+  <input type="checkbox"><br>
+  <label>Radio1:</label>
+  <input type="radio" name="test">
+  <label>Radio2:</label>
+  <input type="radio" name="test"><br>
+  <label>Range:</label>
+  <input type="range"><br>
+</form>
+```
+```css
+input {
+  accent-color: gold;
+}
+input[type=radio] {
+  accent-color: blueviolet;
+}
+input[type=range] {
+  accent-color: cyan;
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7186475076018130182?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+
+---
+### Btn Hover 01
+
+```html
+<a href="#">Hover 01</a>
+```
+```css
+a {
+  border: 3px solid gold;
+  text-decoration: none;
+  padding: 20px;
+  color: #000;
+  background: linear-gradient(
+    45deg, gold 50%, transparent 50%
+  );
+  background-position: 100%;
+  background-size: 250%;
+  transition: 0.5s background
+}
+a:hover {
+  background-position: 0;
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+
+---
+### Image Mirror
+
+```html
+<img src="./example.png" alt="rick">
+<img src="./example.png" alt="rick">
+```
+```css
+img:last-of-type {
+  /* -webkit-box-reflect: right; Deprecate...*/
+  /* transform: scaleX(-1); */
+  transform: rotateY(180deg);
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+
+---
+### Spinner
+
+```html
+<div class="spinner"></div>
+```
+```css
+.spinner {
+  width: 80px; height: 80px;
+  border: 10px solid blueviolet;
+  border-top: 10px solid plum;
+  border-radius: 50%;
+  animation: 1s linear infinite spiner;
+}
+@keyframes spiner {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+
+---
+### Text Area Resize
+
+```html
+<textarea cols="30" rows="10"></textarea>
+```
+```css
+textarea {
+  border: 2px solid #000;
+  resize: both;
+  resize: horizontal;
+  resize: vertical;
+  resize: none;
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
 
 ---
 
