@@ -65,6 +65,7 @@
 1. [Image Mirror](#image-mirror)
 1. [Spinner](#spinner)
 1. [Text Area Resize](#text-area-resize)
+1. [Loader Animation 01](#loader-animation-01)
 
 ---
 
@@ -1375,6 +1376,32 @@ textarea {
   resize: horizontal;
   resize: vertical;
   resize: none;
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+
+---
+### Loader Animation 01
+
+```html
+<div class="loader"></div>
+```
+```css
+.loader {
+  width: 60px; height: 60px;
+  background-color: blueviolet;
+  border-radius: 50%;
+  animation: 1s scaler infinite linear;
+}
+@keyframes scaler {
+  to {
+    transform: scale(0);
+    opacity: 1;
+  }
+  from {
+    transform: scale(1);
+    opacity: 0;
+  }
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>

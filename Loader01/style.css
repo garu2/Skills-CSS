@@ -1,0 +1,23 @@
+body{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin-left: 19%;
+    margin-top: 3%;
+}
+.loader {
+  width: 60px; height: 60px;
+  background-color: blueviolet;
+  border-radius: 50%;
+  animation: 1s scaler infinite linear;
+}
+@keyframes scaler {
+  to {
+    transform: scale(0);
+    opacity: 1;
+  }
+  from {
+    transform: scale(1);
+    opacity: 0;
+  }
+}
