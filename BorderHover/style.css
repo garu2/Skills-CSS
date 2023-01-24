@@ -1,0 +1,25 @@
+body{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin-left: 19%;
+    margin-top: 3%;
+}
+
+.profile {
+  width: 150px; height: 150px;
+  background: url(./profile.jpg);
+  background-size: cover;
+}
+.profile::before {
+  content: "";
+  width: 90%; height: 90%;
+  border: 10px solid cyan;
+  display: block;
+  transition: 0.5s;
+}
+.profile:hover:before {
+  transform: rotate(45deg);
+}
+
+

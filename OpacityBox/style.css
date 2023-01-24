@@ -1,0 +1,21 @@
+body{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    margin-left: 13%;
+    margin-top: 5%;
+}
+
+section {
+  display: flex;
+  gap: 5px;
+}
+.card {
+  width: 90px; height: 90px;
+  background-color: aquamarine;
+  border-radius: 5px;
+  transition: 0.3s;
+}
+section:hover > :not(:hover) {
+  opacity: 0.4;
+}

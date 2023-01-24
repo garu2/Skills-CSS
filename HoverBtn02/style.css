@@ -1,0 +1,22 @@
+body{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    margin-left: 16%;
+    margin-top: 5%;
+    background-color: #000;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+  background-color: cyan;
+  padding: 20px;
+  border-radius: 10px;
+}
+a:hover {
+  /* x, y, desenfoque, propagacion, color */
+  box-shadow: 0 0 10px 0 cyan inset, 
+  0 0 10px 4px cyan;
+  background-color: transparent;
+}
