@@ -66,6 +66,9 @@
 1. [Spinner](#spinner)
 1. [Text Area Resize](#text-area-resize)
 1. [Loader Animation 01](#loader-animation-01)
+1. [Hover Opacity](#hover-opacity)
+1. [Hover Btn 02](#hover-btn-02)
+1. [Horder Hover Animation](#horder-hover-animation)
 
 ---
 
@@ -1402,6 +1405,81 @@ textarea {
     transform: scale(1);
     opacity: 0;
   }
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+
+---
+### Hover Opacity
+
+```html
+<section>
+  <div class="card"></div>
+  <div class="card"></div>
+  <div class="card"></div>
+  <div class="card"></div>
+</section>
+```
+```css
+section {
+  display: flex;
+  gap: 5px;
+}
+.card {
+  width: 90px; height: 90px;
+  background-color: aquamarine;
+  border-radius: 5px;
+  transition: 0.3s;
+}
+section:hover > :not(:hover) {
+  opacity: 0.4;
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+
+---
+### Hover Btn 02
+
+```html
+<a href="#">Hover 02</a>
+```
+```css
+a {
+  color: #fff;
+  text-decoration: none;
+  background-color: cyan;
+  padding: 20px;
+  border-radius: 10px;
+}
+a:hover {
+  /* x, y, desenfoque, propagacion, color */
+  box-shadow: 0 0 10px 0 cyan inset, 0 0 10px 4px cyan;
+  background-color: transparent;
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+
+---
+### Border Hover Animation
+
+```html
+<div class="profile"></div>
+```
+```css
+.profile {
+  width: 150px; height: 150px;
+  background: url(./profile.jpg);
+  background-size: cover;
+}
+.profile::before {
+  content: "";
+  width: 90%; height: 90%;
+  border: 10px solid cyan;
+  display: block;
+  transition: 0.5s;
+}
+.profile:hover:before {
+  transform: rotate(45deg);
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
