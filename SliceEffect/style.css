@@ -1,0 +1,26 @@
+body{
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    margin-left: 23%;
+    margin-top: 3%;
+}
+
+.box {
+  width: 150px; height: 150px;
+  background-color: aquamarine;
+  display: grid;
+  place-content: center;
+  position: relative;
+}
+.box:before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: url(./user.jpg);
+  background-size: cover;
+  transition: 0.5s;
+}
+.box:hover:before {
+  transform: translateX(150px);
+}

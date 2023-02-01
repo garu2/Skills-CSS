@@ -68,7 +68,7 @@
 1. [Loader Animation 01](#loader-animation-01)
 1. [Hover Opacity](#hover-opacity)
 1. [Hover Btn 02](#hover-btn-02)
-1. [Horder Hover Animation](#horder-hover-animation)
+1. [Border Hover Animation](#horder-hover-animation)
 
 ---
 

@@ -1,0 +1,19 @@
+body{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin-left: 19%;
+    margin-top: 3%;
+}
+
+.heart {
+  font-size: 50px;
+  width: fit-content;
+  animation: 0.5s bigHeart
+   alternate infinite;
+}
+
+@keyframes bigHeart {
+  to { transform: scale(1); }
+  from { transform: scale(1.5); }
+}
