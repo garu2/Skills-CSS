@@ -1,0 +1,54 @@
+.dots {
+  display: flex; gap: 5px;
+}
+.dot {
+  width: 30px; height: 30px;
+  background-color: blueviolet;
+  border-radius: 50%;
+  animation: 0.3s updown infinite
+    alternate ease-in-out;
+}
+.dot:nth-child(2) {
+  animation-delay: 0.1s;
+}
+@keyframes updown {
+  0% { transform: translateY(25px); }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  margin-left: 16%;
+  margin-top: 5%;
+}
