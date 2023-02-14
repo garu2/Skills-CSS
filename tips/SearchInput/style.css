@@ -1,0 +1,36 @@
+body{
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  margin-left: 16%;
+  margin-top: 5%;
+}
+
+
+
+.search {
+  background-color: tomato;
+  width: fit-content;
+  padding: 4px;
+  display: flex;
+  border-radius: 25px;
+}
+img {
+  width: 20px;
+  background-color: gold;
+  padding: 10px;
+  border-radius: 50%;
+}
+.search:hover input {
+  width: 140px;
+  padding: 0 10px 0 10px;
+}
+input {
+  transition: 0.4s;
+  width: 0;
+  background-color: transparent;
+  border: 0;
+  outline: none;
+  font-size: 20px;
+  padding: 0;
+}

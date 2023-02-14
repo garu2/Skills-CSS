@@ -1,0 +1,15 @@
+body{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  margin-left: 14%;
+  margin-top: 5%;
+}
+
+details {
+  width: 300px;
+  border: 1px solid gray;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
