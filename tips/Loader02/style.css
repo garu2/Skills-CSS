@@ -1,3 +1,10 @@
+body{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  margin-left: 16%;
+  margin-top: 5%;
+}
 .dots {
   display: flex; gap: 5px;
 }
@@ -13,42 +20,4 @@
 }
 @keyframes updown {
   0% { transform: translateY(25px); }
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-body{
-  font-size: 20px;
-  font-family: Arial, Helvetica, sans-serif;
-  font-weight: 600;
-  margin-left: 16%;
-  margin-top: 5%;
 }

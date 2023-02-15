@@ -69,6 +69,10 @@
 1. [Hover Opacity](#hover-opacity)
 1. [Hover Btn 02](#hover-btn-02)
 1. [Border Hover Animation](#horder-hover-animation)
+1. [Heart Animation](#heart-animation)
+1. [Card Slice Effect](#sard-slice-effect)
+1. [Background Gradient Animated](#background-gradient-animated)
+1. [Loader 3 Dots](#loader-3-dots)
 
 ---
 
@@ -1477,13 +1481,15 @@ a:hover {
 ```
 ```css
 .profile {
-  width: 150px; height: 150px;
+  width: 150px; 
+  height: 150px;
   background: url(./profile.jpg);
   background-size: cover;
 }
 .profile::before {
   content: "";
-  width: 90%; height: 90%;
+  width: 90%; 
+  height: 90%;
   border: 10px solid cyan;
   display: block;
   transition: 0.5s;
@@ -1494,6 +1500,109 @@ a:hover {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7195343962259868933?lang=es">Video Explicación</a></sup>
+
+---
+### Heart Animation
+
+```html
+<div class="heart">❤️</div>
+```
+```css
+.heart {
+  font-size: 50px;
+  width: fit-content;
+  animation: 0.5s bigHeart alternate infinite;
+}
+
+@keyframes bigHeart {
+  to { transform: scale(1); }
+  from { transform: scale(1.5); }
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+
+---
+### Card Slice Effect
+
+```html
+<div class="box">Description</div>
+```
+```css
+.box {
+  width: 150px; height: 150px;
+  background-color: aquamarine;
+  display: grid;
+  place-content: center;
+  position: relative;
+}
+.box:before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: url(./user.jpg);
+  background-size: cover;
+  transition: 0.5s;
+}
+.box:hover:before {
+  transform: translateX(150px);
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+
+---
+### Background Gradient Animated
+
+```html
+<div class="bg-gradient"></div>
+```
+```css
+.bg-gradient {
+  width: 300px; 
+  height: 150px;
+  background: linear-gradient(90deg, cyan, blueviolet);
+  background-size: 400% 400%;
+  border-radius: 10px; 
+  animation: 2s gradient infinite;
+}
+@keyframes gradient {
+  0% { background-position: 0 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0 50%; }
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+
+---
+### Loader 3 Dots
+
+```html
+<div class="dots">
+  <div class="dot"></div>
+  <div class="dot"></div>
+  <div class="dot"></div>
+</div>
+```
+```css
+.dots {
+  display: flex; 
+  gap: 5px;
+}
+.dot {
+  width: 30px; 
+  height: 30px;
+  background-color: blueviolet;
+  border-radius: 50%;
+  animation: 0.3s updown infinite
+    alternate ease-in-out;
+}
+.dot:nth-child(2) {
+  animation-delay: 0.1s;
+}
+@keyframes updown {
+  0% { transform: translateY(25px); }
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
 
 ---
 
