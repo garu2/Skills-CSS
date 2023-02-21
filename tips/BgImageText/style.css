@@ -1,0 +1,22 @@
+body{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  margin-left: 12%;
+  margin-top: 3%;
+}
+* {
+  margin: 0;
+}
+
+.text {
+  font-size: 70px;
+  background: url(./textImage.jpg);
+  width: fit-content;
+  background-size: cover;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  font-weight: 900;
+  text-transform: uppercase;
+}
