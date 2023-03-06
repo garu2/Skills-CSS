@@ -1,0 +1,41 @@
+body{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  margin-left: 20%;
+  margin-top: 5%;
+}
+
+input {
+  padding: 10px;
+  border-radius: 5px;
+  outline: none;
+}
+input:invalid {
+  border: 2px solid tomato;
+  animation: 0.2s valid 3;
+}
+@keyframes valid {
+  to { transform: translateX(0); }
+  from { transform: translateX(10px); }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  margin-left: 40%;
+  margin-top: 3%;
+}
