@@ -1,0 +1,29 @@
+body{
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  margin-left: 16%;
+  margin-top: 5%;
+  letter-spacing: 1px;
+}
+
+
+.loader {
+  width: 70px; height: 70px;
+  border: 5px dotted blueviolet;
+  border-radius: 50%;
+  position: relative;
+}
+.loader:after {
+  content: "";
+  width: 3px; height: 30px;
+  background: darkblue;
+  display: block;
+  position: absolute;
+  left: 35px; bottom: 35px;
+  transform-origin: 0 100%;
+  animation: 2s clock infinite;
+}
+@keyframes clock {
+  to { transform: rotate(360deg); }
+}

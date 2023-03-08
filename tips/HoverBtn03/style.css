@@ -1,0 +1,23 @@
+body{
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  margin-left: 16%;
+  margin-top: 5%;
+  letter-spacing: 1px;
+}
+a {
+  text-decoration: none;
+  background: linear-gradient(
+    90deg, aqua, fuchsia
+  );
+  padding: 15px 35px;
+  color: #fff;
+  border-radius: 7px;
+  display: inline-block;
+  transition: 0.4s transform;
+}
+a:hover {
+  background-size: 200%;
+  transform: scale(1.1);
+}
