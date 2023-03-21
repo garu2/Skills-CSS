@@ -73,6 +73,12 @@
 1. [Card Slice Effect](#sard-slice-effect)
 1. [Background Gradient Animated](#background-gradient-animated)
 1. [Loader 3 Dots](#loader-3-dots)
+1. [Expand Tag](#expand-tag)
+1. [Customize Seacrh Input](#customize-seacrh-input)
+1. [Background Image Text](#background-image-text)
+1. [Hover Image Scale](#hover-image-scale)
+1. [Input Shake Validator](#input-shake-validator)
+1. [Hover Btn 03 Gradient](#hover-btn-03-gradient)
 
 ---
 
@@ -318,6 +324,7 @@ span::after {
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7168220377687133445?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
 ---
+
 ### Change Color Cursor in textarea
 
 ```html
@@ -1600,6 +1607,239 @@ a:hover {
 }
 @keyframes updown {
   0% { transform: translateY(25px); }
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+
+---
+### Expand Tag 
+`details` y `summary`
+
+```html
+<details>
+  <summary>
+    Read more:
+  </summary>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta obcaecati deleniti quia, saepe nostrum incidunt, dicta 
+  </details>
+
+<details>
+  <summary>
+    Read more:
+  </summary>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+</details>
+```
+```css
+details {
+  width: 300px;
+  border: 1px solid gray;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7204474428460125445?lang=es">Video Explicación</a></sup>
+
+---
+### Customize Seacrh Input
+
+```html
+<div class="search">
+  <img src="./lenss.png" alt="icon">
+  <input type="search" placeholder="search">
+</div>
+```
+```css
+.search {
+  background-color: tomato;
+  width: fit-content;
+  padding: 4px;
+  display: flex;
+  border-radius: 25px;
+}
+img {
+  width: 20px;
+  background-color: gold;
+  padding: 10px;
+  border-radius: 50%;
+}
+.search:hover input {
+  width: 140px;
+  padding: 0 10px 0 10px;
+}
+input {
+  transition: 0.4s;
+  width: 0;
+  background-color: transparent;
+  border: 0;
+  outline: none;
+  font-size: 20px;
+  padding: 0;
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7207232913568451846?lang=es">Video Explicación</a></sup>
+
+---
+### Background Image Text
+
+```html
+<h2 class="text">BgImage</h2>
+```
+```css
+.text {
+  font-size: 70px;
+  background: url(./textImage.jpg);
+  width: fit-content;
+  background-size: cover;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7208359690676374790?lang=es">Video Explicación</a></sup>
+
+---
+### Hover Image Scale
+
+```html
+<div class="card">
+  <img src="./controller.png" alt="image">
+</div>
+```
+```css
+.card {
+  width: 200px; height: 200px;
+  overflow: hidden;
+  border-radius: 10px;
+}
+img {
+  width: 100%; height: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+  transition: 0.5s;
+}
+.card:hover img {
+  transform: scale(1.2);
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7205740752230567174?lang=es">Video Explicación</a></sup>
+
+---
+### Input Shake Validator
+
+```html
+<input type="text" pattern="[a-z]*">
+```
+```css
+input {
+  padding: 10px;
+  border-radius: 5px;
+  outline: none;
+}
+input:invalid {
+  border: 2px solid tomato;
+  animation: 0.2s valid 3;
+}
+@keyframes valid {
+  to { transform: translateX(0); }
+  from { transform: translateX(10px); }
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7212412070178852102?lang=es">Video Explicación</a></sup>
+
+---
+### Text Wave Animation
+
+```html
+<body>
+  <span style="--n:1">B</span>
+  <span style="--n:2">L</span>
+  <span style="--n:3">A</span>
+  <span style="--n:4">C</span>
+  <span style="--n:5">K</span>
+</body>
+```
+```css
+span {
+  animation: 1.5s waves infinite;
+  display: inline-block;
+  animation-delay: calc(0.1s * var(--n));
+  font-size: 40px;
+  font-weight: 800;
+}
+@keyframes waves {
+  0%,40%,100% {
+    transform: translateY(0px);
+  }
+  20% {
+    transform: translateY(-30px);
+  }
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7209809853689203974?lang=es">Video Explicación</a></sup>
+
+---
+### Hover Btn 03 Gradient
+
+```html
+<a href="#">HOVER 03</a>
+```
+```css
+a {
+  text-decoration: none;
+  background: linear-gradient(
+    90deg, aqua, fuchsia
+  );
+  padding: 15px 35px;
+  color: #fff;
+  border-radius: 7px;
+  display: inline-block;
+  transition: 0.4s transform;
+}
+a:hover {
+  background-size: 200%;
+  transform: scale(1.1);
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7211093623901818117?lang=es">Video Explicación</a></sup>
+
+---
+### Clock Loader
+
+```html
+<div class="loader"></div>
+```
+```css
+.loader {
+  width: 70px; 
+  height: 70px;
+  border: 5px dotted blueviolet;
+  border-radius: 50%;
+  position: relative;
+}
+.loader:after {
+  content: "";
+  width: 3px; 
+  height: 30px;
+  background: darkblue;
+  display: block;
+  position: absolute;
+  left: 35px; bottom: 35px;
+  transform-origin: 0 100%;
+  animation: 2s clock infinite;
+}
+@keyframes clock {
+  to { transform: rotate(360deg); }
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
