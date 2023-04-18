@@ -1,23 +1,26 @@
 body{
-    font-size: 20px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 600;
-    margin-left: 16%;
-    margin-top: 5%;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  margin-left: 16%;
+  margin-top: 5%;
 }
 
-a {
-  border: 3px solid gold;
-  text-decoration: none;
-  padding: 20px;
-  color: #000;
-  background: linear-gradient(
-    45deg, gold 50%, transparent 50%
-  );
-  background-position: 100%;
-  background-size: 250%;
-  transition: 0.5s background
+.container {
+  display: flex;
+  width: 200px;
 }
-a:hover {
-  background-position: 0;
+.card {
+  flex: 1;
+  overflow: hidden;
+  filter: grayscale(1);
+  transition: 0.5s;
+}
+.card img {
+  width: 100px;
+  height: 100px;
+}
+.card:hover {
+  flex: 2;
+  filter: grayscale(0);
 }
