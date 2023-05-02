@@ -1,0 +1,23 @@
+body{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  margin-left: 16%;
+  margin-top: 5%;
+}
+
+.box {
+  width: 100px; height: 100px;
+  border-style: solid;
+  border-width: 10px;
+  border-image: linear-gradient(cyan, violet) 1;
+  animation: 1s newBorder infinite alternate;
+}
+@keyframes newBorder {
+  0% {
+    border-image: linear-gradient(violet, cyan ) 1;
+  }
+  100% {
+    border-image: linear-gradient(cyan, violet) 1;
+  }
+}
