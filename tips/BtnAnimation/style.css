@@ -1,0 +1,24 @@
+body{
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  margin-left: 16%;
+  margin-top: 5%;
+}
+a {
+  border: 7px solid gold;
+  /* background: cyan; */
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  color: #000;
+  animation: 2s btnfilter infinite linear;
+}
+@keyframes btnfilter {
+  to {
+    filter: hue-rotate(0deg);
+  }
+  from {
+    filter: hue-rotate(360deg);
+  }
+}
