@@ -9,12 +9,29 @@
   <input type="text" list="lista">
 
   <datalist id="lista">
-    <option value="JavaScript"></option>
+    <!-- <option value="JavaScript"></option>
     <option value="Python"></option>
     <option value="Java"></option>
-    <option value="C#"></option>
+    <option value="C#"></option> -->
   </datalist>
+  
+  <script>
+    const callApi = async () => {
+      const data = await fetch("https://dog.ceo/api/breeds/list");
+      const dataJson = await data.json();
+      //console.log(dataJson.message);
+      let lista = document.querySelector("#lista");
+      console.log(lista);
+      dataJson.message.forEach(item => {
+        let element = document.createElement("option");
+        element.value = item;
+        //console.log(element);
+        lista.appendChild(element);
+      });
+    }
+    callApi();
 
+  </script>
 </body>
 
 </html>
