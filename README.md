@@ -1533,6 +1533,7 @@ a:hover {
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7199396821544848645?lang=es">Video Explicación</a></sup>
 
 ---
 ### Card Slice Effect
@@ -1561,6 +1562,7 @@ a:hover {
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7200531103432625414?lang=es">Video Explicación</a></sup>
 
 ---
 ### Background Gradient Animated
@@ -1584,6 +1586,7 @@ a:hover {
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7201876476554136837?lang=es">Video Explicación</a></sup>
 
 ---
 ### Loader 3 Dots
@@ -1616,6 +1619,7 @@ a:hover {
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7203116830179790085?lang=es">Video Explicación</a></sup>
 
 ---
 ### Expand Tag 
@@ -1849,6 +1853,7 @@ a:hover {
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7213392448192580869?lang=es">Video Explicación</a></sup>
 
 ---
 ### Stroke Title
