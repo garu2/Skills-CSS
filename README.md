@@ -80,6 +80,11 @@
 1. [Input Shake Validator](#input-shake-validator)
 1. [Hover Btn 03 Gradient](#hover-btn-03-gradient)
 1. [Clock Loader](#clock-loader)
+1. [Stroke Title](#stroke-title)
+1. [Display Attributes of tag](#display-attributes-of-tag)
+1. [Circular Image with Text](#circular-image-with-text)
+1. [Autocomplete Input](#autocomplete-input)
+1. [Hover Zoom Images](#Hover-zoom-images)
 
 ---
 
@@ -1841,6 +1846,138 @@ a:hover {
 }
 @keyframes clock {
   to { transform: rotate(360deg); }
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+
+---
+### Stroke Title
+
+```html
+<h1>TITLE</h1>
+```
+```css
+h1 {
+  text-shadow: 4px 4px cyan;
+    -webkit-text-stroke-color: #fff;
+    -webkit-text-stroke-width: 1px;
+  color: transparent;
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7216436182706638085?lang=es">Video Explicación</a></sup>
+
+---
+### Display Attributes of tag
+
+```html
+<span data="Black">Code 💻</span>
+```
+```css
+span:after {
+  content: attr(data);
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7226131669231635718?lang=es">Video Explicación</a></sup>
+
+---
+### Circular Image with Text
+
+```html
+<div class="circle">
+  <img src="./aple.png" alt="aple">
+</div>
+<p>
+	Lorem ipsum dolor, sit amet consec tetur adipi sicLorem ipsum dolor, sit amet consec tetur adipi sim ipsu dolor sit amet consectetur adipisim ipsum dolor, sit amet consec tetur adipi sicing elit. Enim omnis veniam facilis autem, ipsa doloribus dolor quasi repre henderit quod in quis atque facere consec tetur iste? Ipsam dolorum dignissimos facere ad! Lorem ipsum dolor, sit amet consec tetur adipisic Lorem ipsum 
+</p>
+```
+```css
+.circle {
+  width: 100px;
+  height: 100px;
+  float: left;
+  shape-outside: circle(50%);
+}
+img {
+  width: 90%;
+  height: 90%;
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7223385383197805829?lang=es">Video Explicación</a></sup>
+
+---
+### Autocomplete Input
+
+```html
+<label>Lenguajes:</label>
+<input type="text" list="lista">
+
+<datalist id="lista">
+  <!-- <option value="JavaScript"></option>
+  <option value="Python"></option>
+  <option value="Java"></option>
+  <option value="C#"></option> -->
+</datalist>
+  
+<script>
+  const callApi = async () => {
+    const data = await fetch("https://dog.ceo/api/breeds/list");
+    const dataJson = await data.json();
+    //console.log(dataJson.message);
+    let lista = document.querySelector("#lista");
+    console.log(lista);
+    dataJson.message.forEach(item => {
+      let element = document.createElement("option");
+      element.value = item;
+      //console.log(element);
+      lista.appendChild(element);
+    });
+  }
+callApi();
+</script>
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7227648625243999493?lang=es">Video Explicación</a></sup>
+
+---
+### Hover Zoom Images
+
+```html
+<div class="container">
+  <div class="card">
+    <img src="./one.jpg" alt="...">
+  </div>
+  <div class="card">
+    <img src="./two2.jpg" alt="...">
+  </div>
+  <div class="card">
+    <img src="./three.jpg" alt="...">
+  </div>
+  <div class="card">
+    <img src="./four.jpg" alt="...">
+  </div>
+</div>
+```
+```css
+.container {
+  display: flex;
+  width: 200px;
+}
+.card {
+  flex: 1;
+  overflow: hidden;
+  filter: grayscale(1);
+  transition: 0.5s;
+}
+.card img {
+  width: 100px;
+  height: 100px;
+}
+.card:hover {
+  flex: 2;
+  filter: grayscale(0);
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
