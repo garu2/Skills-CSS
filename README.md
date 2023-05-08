@@ -79,6 +79,7 @@
 1. [Hover Image Scale](#hover-image-scale)
 1. [Input Shake Validator](#input-shake-validator)
 1. [Hover Btn 03 Gradient](#hover-btn-03-gradient)
+1. [Clock Loader](#clock-loader)
 
 ---
 
@@ -1640,7 +1641,7 @@ details {
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
-sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7204474428460125445?lang=es">Video Explicación</a></sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7204474428460125445?lang=es">Video Explicación</a></sup>
 
 ---
 ### Customize Seacrh Input
@@ -1680,7 +1681,7 @@ input {
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
-sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7207232913568451846?lang=es">Video Explicación</a></sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7207232913568451846?lang=es">Video Explicación</a></sup>
 
 ---
 ### Background Image Text
@@ -1702,7 +1703,7 @@ sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/720
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
-sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7208359690676374790?lang=es">Video Explicación</a></sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7208359690676374790?lang=es">Video Explicación</a></sup>
 
 ---
 ### Hover Image Scale
@@ -1729,7 +1730,7 @@ img {
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
-sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7205740752230567174?lang=es">Video Explicación</a></sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7205740752230567174?lang=es">Video Explicación</a></sup>
 
 ---
 ### Input Shake Validator
@@ -1753,7 +1754,7 @@ input:invalid {
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
-sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7212412070178852102?lang=es">Video Explicación</a></sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7212412070178852102?lang=es">Video Explicación</a></sup>
 
 ---
 ### Text Wave Animation
@@ -1785,7 +1786,7 @@ span {
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
-sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7209809853689203974?lang=es">Video Explicación</a></sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7209809853689203974?lang=es">Video Explicación</a></sup>
 
 ---
 ### Hover Btn 03 Gradient
@@ -1811,7 +1812,7 @@ a:hover {
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
-sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7211093623901818117?lang=es">Video Explicación</a></sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7211093623901818117?lang=es">Video Explicación</a></sup>
 
 ---
 ### Clock Loader
