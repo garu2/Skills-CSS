@@ -84,7 +84,8 @@
 1. [Display Attributes of tag](#display-attributes-of-tag)
 1. [Circular Image with Text](#circular-image-with-text)
 1. [Autocomplete Input](#autocomplete-input)
-1. [Hover Zoom Images](#Hover-zoom-images)
+1. [Hover Zoom Images](#hover-zoom-images)
+1. [Hover Image Profile](#hover-image-profile)
 
 ---
 
@@ -1983,6 +1984,41 @@ callApi();
 .card:hover {
   flex: 2;
   filter: grayscale(0);
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+
+---
+### Hover Image Profile
+
+```html
+<figure>
+  <img src="./profile.jpg" alt="profile">
+</figure>
+```
+```css
+figure {
+  width: 150px;
+  height: 150px;
+  border: 7px solid gray;
+  border-radius: 20px;
+  overflow: hidden;
+  transition: 0.5s;
+  transform-origin: 0 100%;
+  transform: scale(0.70)rotateZ(-10deg);
+}
+figure:hover { 
+  transform: scale(0.70)rotateZ(0deg); 
+}
+figure:hover img { 
+  transform: rotateZ(0deg); 
+}
+img {
+  width: 100%; 
+  height: 100%;
+  object-fit: cover;
+  transition: 0.5s;
+  transform: scale(1.2)rotateZ(10deg);
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
