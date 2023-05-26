@@ -87,6 +87,7 @@
 1. [Hover Zoom Images](#hover-zoom-images)
 1. [Hover Image Profile](#hover-image-profile)
 1. [Custom Input Radio](#custom-input-radio)
+1. [Add Styles to HTML](#add-styles-to-html)
 
 ---
 
@@ -2048,6 +2049,33 @@ input[type=radio]:checked::before {
   display: block;
   border-radius: 50%;
 }
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+
+---
+
+### Add Styles to HTML
+
+**Estilos en con la etiqueta `style`**
+```html
+<head>
+  <style>
+    h2 {
+      color: blueviolet;
+      font-size: 40px;
+    }
+  </style>
+</head>
+```
+**Estilos en linea**
+```html
+<h2 style="color: green">Titulo Pricipal</h2>
+```
+**Estilos en un archivo `css`**
+```html
+<head>
+  <link rel="stylesheet" href="./style.css">
+</head>
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 
