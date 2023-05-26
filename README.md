@@ -86,6 +86,7 @@
 1. [Autocomplete Input](#autocomplete-input)
 1. [Hover Zoom Images](#hover-zoom-images)
 1. [Hover Image Profile](#hover-image-profile)
+1. [Custom Input Radio](#custom-input-radio)
 
 ---
 
@@ -2019,6 +2020,33 @@ img {
   object-fit: cover;
   transition: 0.5s;
   transform: scale(1.2)rotateZ(10deg);
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+
+---
+### Custom Input Radio
+
+```html
+<figure>
+  <img src="./profile.jpg" alt="profile">
+</figure>
+```
+```css
+input[type=radio] {
+  appearance: none;
+  width: 25px; 
+  height: 25px;
+  border: 2px solid gold;
+  border-radius: 50%;
+}
+input[type=radio]:checked::before {
+  content: "";
+  width: 100%; 
+  height: 100%;
+  background: linear-gradient(45deg,purple, red, gold);
+  display: block;
+  border-radius: 50%;
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
