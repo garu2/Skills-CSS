@@ -88,6 +88,7 @@
 1. [Hover Image Profile](#hover-image-profile)
 1. [Custom Input Radio](#custom-input-radio)
 1. [Add Styles to HTML](#add-styles-to-html)
+1. [Ellipses Multiline](#ellipses-multiline)
 
 ---
 
@@ -2076,6 +2077,25 @@ input[type=radio]:checked::before {
 <head>
   <link rel="stylesheet" href="./style.css">
 </head>
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+
+---
+### Ellipses Multiline
+
+```html
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, iure? Voluptatem necessitatibus praesentium culpa rem odit neque facilis, hic quisquam, incidunt nobis omnis, laborum molestias voluptas eaque vitae eligendi ratione!
+</p>
+```
+```css
+p {
+  width: 320px;
+  display: -webkit-box;
+  white-space: normal;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  overflow: hidden;
+}
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 
