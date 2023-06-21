@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="style.css">
+  <title>Image Preview</title>
+</head>
+<body>
+  <img id="preview" 
+    src="./preview.jpg" 
+    height="200"
+  > <br>
+  <input type="file" id="input">
+
+  <script>
+    let img = document.querySelector("#preview")
+    let file = document.querySelector("#input")
+
+    file.onchange = (e) => {
+      if (file.files[0]) {
+        img.src = URL.createObjectURL(
+          file.files[0]
+        )
+      }
+    }
+  </script>
+</body>
+
+</html>
