@@ -89,6 +89,7 @@
 1. [Custom Input Radio](#custom-input-radio)
 1. [Add Styles to HTML](#add-styles-to-html)
 1. [Ellipses Multiline](#ellipses-multiline)
+1. [Image Preview Js](#image-preview-js)
 
 ---
 
@@ -2095,6 +2096,32 @@ p {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 3;
   overflow: hidden;
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+
+---
+### Image Preview Js
+
+```html
+<img 
+  id="preview" 
+  src="./preview.jpg" 
+  height="200"
+> 
+<br>
+<input type="file" id="input">
+```
+```js
+let img = document.querySelector("#preview")
+let file = document.querySelector("#input")
+
+file.onchange = (e) => {
+  if (file.files[0]) {
+    img.src = URL.createObjectURL(
+      file.files[0]
+    )
+  }
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
