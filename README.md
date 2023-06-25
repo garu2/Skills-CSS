@@ -90,6 +90,7 @@
 1. [Add Styles to HTML](#add-styles-to-html)
 1. [Ellipses Multiline](#ellipses-multiline)
 1. [Image Preview Js](#image-preview-js)
+1. [Marker li Custom Icon](#marker-li-custom-icon)
 
 ---
 
@@ -2122,6 +2123,31 @@ file.onchange = (e) => {
       file.files[0]
     )
   }
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+
+---
+### Marker li Custom Icon
+
+```html
+<ul>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+  <li>Fourth item</li>
+</ul>
+```
+```css
+li {
+  list-style: disc;
+}
+li::marker {
+  content: "Paso " counter(list-item)": ";
+  color: blueviolet;
+}
+li::marker {
+  /* content: "🤪"; */
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
