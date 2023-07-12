@@ -91,6 +91,7 @@
 1. [Ellipses Multiline](#ellipses-multiline)
 1. [Image Preview Js](#image-preview-js)
 1. [Marker li Custom Icon](#marker-li-custom-icon)
+1. [Responsive Columns](#responsive-columns)
 
 ---
 
@@ -2148,6 +2149,31 @@ li::marker {
 }
 li::marker {
   /* content: "🤪"; */
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+
+---
+### Responsive Columns
+
+```html
+<div>
+  <h2>The Title</h2>
+  <p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo esse temporibus accusantium iure sint. Dignissimos illum quaerat eveniet placeat, eum error blanditiis quos est hic tenetur quia aliquam corporis maxime?
+  </p>
+</div>
+```
+```css
+div {
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 8px;
+  columns: 200px 2;
+}
+h2 {
+  column-span: all;
+  margin: 0;
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
