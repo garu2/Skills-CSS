@@ -1993,6 +1993,7 @@ callApi();
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7235649200304688389?lang=es">Video Explicación</a></sup>
 
 ---
 ### Hover Image Profile
@@ -2028,6 +2029,7 @@ img {
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7240957670151179525?lang=es">Video Explicación</a></sup>
 
 ---
 ### Custom Input Radio
@@ -2055,6 +2057,7 @@ input[type=radio]:checked::before {
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7243931952372272390?lang=es">Video Explicación</a></sup>
 
 ---
 
@@ -2082,6 +2085,7 @@ input[type=radio]:checked::before {
 </head>
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7246798650972572933?lang=es">Video Explicación</a></sup>
 
 ---
 ### Ellipses Multiline
@@ -2101,6 +2105,7 @@ p {
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7248989425122807046?lang=es">Video Explicación</a></sup>
 
 ---
 ### Image Preview Js
@@ -2127,6 +2132,7 @@ file.onchange = (e) => {
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7251963208360135942?lang=es">Video Explicación</a></sup>
 
 ---
 ### Marker li Custom Icon
@@ -2152,6 +2158,7 @@ li::marker {
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7254343444083100934?lang=es">Video Explicación</a></sup>
 
 ---
 ### Responsive Columns
