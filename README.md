@@ -92,6 +92,7 @@
 1. [Image Preview Js](#image-preview-js)
 1. [Marker li Custom Icon](#marker-li-custom-icon)
 1. [Responsive Columns](#responsive-columns)
+1. [Modal Only with CSS & HTML](#modal-only-with-css-&-html)
 
 ---
 
@@ -2181,6 +2182,39 @@ div {
 h2 {
   column-span: all;
   margin: 0;
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+
+---
+### Modal Only with CSS & HTML
+
+```html
+<a href="#modal">Open Modal</a>
+<div id="modal" class="new-modal">
+  <div>
+    <h2>Modal Title</h2>
+    <p>Modal without javascript only with CSS.</p>
+    <a href="#close">Close</a>
+  </div>
+</div>
+```
+```css
+.new-modal {
+  background: #00000088;
+  position: fixed;
+  inset: 0;
+  display: none;
+}
+.new-modal:target {
+  display: block;
+}
+.new-modal div {
+  background: #fff;
+  width: 300px;
+  margin: 20px auto;
+  padding: 10px;
+  border-radius: 5px;
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
