@@ -38,7 +38,7 @@
 1. [Paralax](#paralax)
 1. [Vertical Word](#vertical-word)
 1. [Overflow Scroll](#overflow-scroll)
-1. [Customizar la selecciond de texto](#customizar-la-selecciond-de-texto)
+1. [Customizar la seleccion de texto](#customizar-la-seleccion-de-texto)
 1. [Separador de una Lista](#separador-de-una-lista)
 1. [Text Decoration](#text-decoration)
 1. [Alinear Texto y Imagen](#alinear-texto-y-imagen)
@@ -50,7 +50,7 @@
 1. [Triangulo con CSS](#triangulo-con-css)
 1. [Agregar tres puntos al final de un texto](#agregar-tres-puntos-al-final-de-un-texto)
 1. [All Unset](#all-unset)
-1. [Viñetas Triangulares](#vietas-triangulares)
+1. [Viñetas Triangulares](#viñetas-triangulares)
 1. [Word Break](#word-break)
 1. [Repeating Linear Gradient](#repeating-linear-gradient)
 1. [Subíndice y Superíndice](#subíndice-y-superíndice)
@@ -58,7 +58,7 @@
 1. [Neon Effect](#neon-effect)
 1. [Text Gradient](#text-gradient)
 1. [Image Blur](#image-blur)
-1. [Custon ScrollBar](#custon-scrollBar)
+1. [Custon ScrollBar](#custon-scrollbar)
 1. [Animation Emoji](#animation-emoji)
 1. [Change Input Color](#change-input-color)
 1. [Btn Hover 01](#btn-hover-01)
@@ -68,9 +68,9 @@
 1. [Loader Animation 01](#loader-animation-01)
 1. [Hover Opacity](#hover-opacity)
 1. [Hover Btn 02](#hover-btn-02)
-1. [Border Hover Animation](#horder-hover-animation)
+1. [Border Hover Animation](#border-hover-animation)
 1. [Heart Animation](#heart-animation)
-1. [Card Slice Effect](#sard-slice-effect)
+1. [Card Slice Effect](#card-slice-effect)
 1. [Background Gradient Animated](#background-gradient-animated)
 1. [Loader 3 Dots](#loader-3-dots)
 1. [Expand Tag](#expand-tag)
@@ -92,7 +92,7 @@
 1. [Image Preview Js](#image-preview-js)
 1. [Marker li Custom Icon](#marker-li-custom-icon)
 1. [Responsive Columns](#responsive-columns)
-1. [Modal Only with CSS & HTML](#modal-only-with-css-&-html)
+1. [Modal Only with CSS HTML](#modal-only-with-css-html)
 
 ---
 
@@ -2187,7 +2187,7 @@ h2 {
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 
 ---
-### Modal Only with CSS & HTML
+### Modal Only with CSS HTML
 
 ```html
 <a href="#modal">Open Modal</a>
