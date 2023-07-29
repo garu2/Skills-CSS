@@ -93,6 +93,7 @@
 1. [Marker li Custom Icon](#marker-li-custom-icon)
 1. [Responsive Columns](#responsive-columns)
 1. [Modal Only with CSS HTML](#modal-only-with-css-html)
+1. [Checkbox Custom](#checkbox-custom)
 
 ---
 
@@ -2215,6 +2216,37 @@ h2 {
   margin: 20px auto;
   padding: 10px;
   border-radius: 5px;
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+
+---
+### Checkbox Custom
+
+```html
+<label>
+  <input type="checkbox">
+  Checkbox
+</label>
+```
+```css
+input[type="checkbox"] {
+  appearance: none;
+  width: 15px; height: 15px;
+  background: tomato;
+  border-radius: 3px;
+}
+input:checked::before {
+  content: "✔️";
+  font-size: 11px;
+  width: 100%; height: 100%;
+  /* background: url(./check.svg);
+  background-size: 100%; */
+  display: block;
+}
+label {
+  display: flex;
+  align-items: center;
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
