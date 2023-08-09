@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" href="./style.css">
+  <title>Show Password</title>
+</head>
+
+<body>
+  <label>
+    Password:
+    <input type="password" id="field">
+  </label>
+  <br>
+  <label>
+    Show Password:
+    <input type="checkbox" onclick="showPwd()">
+  </label>
+
+  <script>
+    const showPwd = () => {
+      let input = document.querySelector("#field")
+      if (input.type === "password") {
+        input.type = "text"
+      } else {
+        input.type = "password"
+      }
+    }
+  </script>
+</body>
+
+</html>
