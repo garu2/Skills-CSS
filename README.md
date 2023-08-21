@@ -94,6 +94,7 @@
 1. [Responsive Columns](#responsive-columns)
 1. [Modal Only with CSS HTML](#modal-only-with-css-html)
 1. [Checkbox Custom](#checkbox-custom)
+1. [Show and Hide Password](#show-and-hide-password)
 
 ---
 
@@ -2247,6 +2248,32 @@ input:checked::before {
 label {
   display: flex;
   align-items: center;
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+
+---
+### Show and Hide Password
+
+```html
+<label>
+  Password:
+  <input type="password" id="field">
+</label>
+<br>
+<label>
+  Show Password:
+  <input type="checkbox" onclick="showPwd()">
+</label>
+```
+```js
+const showPwd = () => {
+  let input = document.querySelector("#field")
+  if (input.type === "password") {
+    input.type = "text"
+  } else {
+    input.type = "password"
+  }
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
