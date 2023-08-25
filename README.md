@@ -95,6 +95,7 @@
 1. [Modal Only with CSS HTML](#modal-only-with-css-html)
 1. [Checkbox Custom](#checkbox-custom)
 1. [Show and Hide Password](#show-and-hide-password)
+1. [Shorthands Examples](#shorthands-examples)
 
 ---
 
@@ -2275,6 +2276,47 @@ const showPwd = () => {
     input.type = "password"
   }
 }
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+
+---
+### Shorthands Examples
+
+```css
+/* top|right|bottom|left */
+margin: 10px 5px 15px 0px;
+padding: 10px 5px 15px 0px;
+
+/* top.left|top.right|bottom.right|bottom.left */
+border-radius: 2px 15px 50px 25px;
+/* top.left|top.right-bottom.left|bottom.right */
+border-radius: 2px 15px 50px;
+/* top.left-bottom.right|bottom.left-top.right */
+border-radius: 2px 50px;
+
+/* width|style|color */
+border: 1px solid gray;
+
+/* color|image|repeat|position */
+background: aqua url("bg.jpg") no-repeat 50% 50%;
+
+/* type|position|image */
+list-style: square inside url("icon.png");
+
+/* style|weight|size|line-height|family */
+font: normal bold 16px/20px Arial;
+
+/* property|duration|timing-function */
+transition: color 2s ease-in;
+
+/* name|duration|timing-function|delay|iteration-count */
+animation: move-letter 2s ease 1s infinite;
+
+/* flex-direction|flex-wrap */
+flex-flow: column wrap;
+
+/* align-items|justify-items */
+place-items: center start;
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 
