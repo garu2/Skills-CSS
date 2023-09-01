@@ -2188,6 +2188,7 @@ h2 {
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="tiktok.com/@blackcode222/video/7257555450617498886?lang=es">Video Explicación</a></sup>
 
 ---
 ### Modal Only with CSS HTML
@@ -2221,6 +2222,7 @@ h2 {
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7259765880349920518?lang=es">Video Explicación</a></sup>
 
 ---
 ### Checkbox Custom
@@ -2252,6 +2254,7 @@ label {
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7262692010870492421?lang=es">Video Explicación</a></sup>
 
 ---
 ### Show and Hide Password
@@ -2278,6 +2281,7 @@ const showPwd = () => {
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7265369703651003654?lang=es">Video Explicación</a></sup>
 
 ---
 ### Shorthands Examples
@@ -2319,6 +2323,7 @@ flex-flow: column wrap;
 place-items: center start;
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7270978166628388101?lang=es">Video Explicación</a></sup>
 
 ---
 
