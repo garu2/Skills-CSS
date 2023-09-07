@@ -96,6 +96,7 @@
 1. [Checkbox Custom](#checkbox-custom)
 1. [Show and Hide Password](#show-and-hide-password)
 1. [Shorthands Examples](#shorthands-examples)
+1. [Glitch Effect](#glitch-effect)
 
 ---
 
@@ -2324,6 +2325,32 @@ place-items: center start;
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7270978166628388101?lang=es">Video Explicación</a></sup>
+
+---
+
+### Glitch Effect
+
+```html
+<p>GLITCH</p>
+```
+```css
+p:hover {
+  animation: 0.3s glitch infinite;
+}
+
+@keyframes glitch {
+  0% {
+    text-shadow: red -4px 0, cyan 4px 0;
+  }
+  50% {
+    text-shadow: red 4px 0, cyan -4px 0;
+  }
+  100% {
+    text-shadow: red -4px 0, cyan 4px 0;
+  }
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
 
 ---
 
