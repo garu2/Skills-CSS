@@ -1,0 +1,18 @@
+body{
+  font-size: 25px;
+  font-weight: 600;
+  margin-left: 16%;
+  margin-top: 5%;
+}
+
+h1 {
+  width: 1ch;
+  overflow: hidden;
+  font-family: 'Courier New';
+  animation: 4s typing steps(7) 
+    infinite alternate;
+}
+@keyframes typing {
+  from { width: 0ch; }
+  to { width: 7ch; }
+}
