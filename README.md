@@ -97,6 +97,7 @@
 1. [Show and Hide Password](#show-and-hide-password)
 1. [Shorthands Examples](#shorthands-examples)
 1. [Glitch Effect](#glitch-effect)
+1. [Typing Effect](#typing-effect)
 
 ---
 
@@ -2348,6 +2349,26 @@ p:hover {
   100% {
     text-shadow: red -4px 0, cyan 4px 0;
   }
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+
+---
+### Typing Effect
+
+```html
+<h1>TYPING</h1>
+```
+```css
+h1 {
+  width: 1ch;
+  overflow: hidden;
+  font-family: 'Courier New';
+  animation: 4s typing steps(7) infinite alternate;
+}
+@keyframes typing {
+  from { width: 0ch; }
+  to { width: 7ch; }
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
