@@ -2352,6 +2352,7 @@ p:hover {
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7275890552627907845?lang=es">Video Explicación</a></sup>
 
 ---
 ### Typing Effect
@@ -2372,6 +2373,7 @@ h1 {
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7280561314085276934?lang=es">Video Explicación</a></sup>
 
 ---
 
