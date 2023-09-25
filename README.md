@@ -1885,6 +1885,7 @@ h1 {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7216436182706638085?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/TextStroke/index.html)</sup>
 
 ---
 ### Display Attributes of tag
