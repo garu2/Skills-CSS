@@ -98,6 +98,7 @@
 1. [Shorthands Examples](#shorthands-examples)
 1. [Glitch Effect](#glitch-effect)
 1. [Typing Effect](#typing-effect)
+1. [Counter JS](#counter-js)
 
 ---
 
@@ -2374,6 +2375,29 @@ h1 {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7280561314085276934?lang=es">Video Explicación</a></sup>
+
+---
+### Counter JS
+
+```html
+<h2>
+  <span class="count">0</span>+
+</h2>
+```
+```js
+let count = document.querySelector(".count");
+let counter = 0;
+  let interval = setInterval(()=>{
+    if (counter < 200) {
+      counter++;
+      count.innerText = counter;
+    } else {
+      clearInterval(interval)
+    }
+    console.log('test');
+  }, 10)
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
 
 ---
 
