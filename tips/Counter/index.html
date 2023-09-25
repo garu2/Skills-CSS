@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" href="./style.css">
+  <title>Counter</title>
+</head>
+
+<body>
+  <h2>
+    <span class="count">0</span>+
+  </h2>
+</body>
+<script>
+  let count = document.querySelector(".count");
+  let counter = 0;
+  let interval = setInterval(()=>{
+    if (counter < 200) {
+      counter++;
+      count.innerText = counter;
+    } else {
+      clearInterval(interval)
+    }
+    console.log('test');
+  }, 10)
+</script>
+
+
+</html>
