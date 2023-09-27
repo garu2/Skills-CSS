@@ -161,6 +161,7 @@ p {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7165603686092197126?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/BorderGradient/index.html)</sup>
 
 ---
 ### Border vs Outline
@@ -185,6 +186,7 @@ p {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7155478970203409670?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/BorderVsOutline/index.html)</sup>
 
 ---
 ### Box Shadow (Ej: Bandera 🇲🇽)
@@ -202,6 +204,7 @@ p {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7124004364804558086?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/BoxShadow/index.html)</sup>
 
 ---
 ### Box Shadow to Image
@@ -217,6 +220,7 @@ img {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7121687655506611461?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/BoxShadowImage/index.html)</sup>
 
 ---
 ### Button Style
