@@ -99,6 +99,7 @@
 1. [Glitch Effect](#glitch-effect)
 1. [Typing Effect](#typing-effect)
 1. [Counter JS](#counter-js)
+1. [Card Clickable](#card-clickable)
 
 ---
 
@@ -2401,6 +2402,30 @@ let counter = 0;
     }
     console.log('test');
   }, 10)
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+
+---
+### Card Clickable
+
+```html
+<div class="card">
+  <a href="#"></a>
+  <h2>Title</h2>
+  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laudantium, expedita? voluptatibus eaque.</p>
+</div>
+```
+```css
+.card {
+  border: 2px solid blueviolet;
+  width: 300px;
+  padding: 10px;
+  position: relative;
+}
+.card a {
+  position: absolute;
+  inset: 0;
+}
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 
