@@ -100,6 +100,7 @@
 1. [Typing Effect](#typing-effect)
 1. [Counter JS](#counter-js)
 1. [Card Clickable](#card-clickable)
+1. [Cursor Follower](#cursor-follower)
 
 ---
 
@@ -2425,6 +2426,32 @@ let counter = 0;
 .card a {
   position: absolute;
   inset: 0;
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+
+---
+
+### Cursor Follower
+
+```html
+<div class="cursor"></div>
+```
+```js
+document.addEventListener('mousemove', (e) => {
+  const xPos = e.pageX;
+  const yPos = e.pageY;
+  let m = document.querySelector('.cursor');
+  m.style.left = xPos+'px'; 
+  m.style.top = yPos+'px'; 
+});
+```
+```css
+.cursor {
+  width: 50px; 
+  height: 50px;
+  background: blueviolet;
+  position: absolute;
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
