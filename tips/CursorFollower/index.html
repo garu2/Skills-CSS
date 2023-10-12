@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="./style.css">
+  <title>Cursor Follower</title>
+</head>
+<body>
+  <div class="cursor"></div>
+</body>
+<script>
+  document.addEventListener
+  ('mousemove', (e) => {
+    const xPos = e.pageX;
+    const yPos = e.pageY;
+    let m = document.querySelector('.cursor')
+    m.style.left = xPos+'px'; 
+    m.style.top = yPos+'px'; 
+  })
+</script>
+
+</html>
