@@ -2405,6 +2405,7 @@ let counter = 0;
   }, 10)
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7285541437066808582?lang=es">Video Explicación</a></sup>
 
 ---
 ### Card Clickable
@@ -2429,6 +2430,7 @@ let counter = 0;
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7289205370285853958?lang=es">Video Explicación</a></sup>
 
 ---
 
@@ -2455,6 +2457,7 @@ document.addEventListener('mousemove', (e) => {
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7291792582177344773?lang=es">Video Explicación</a></sup>
 
 ---
 
