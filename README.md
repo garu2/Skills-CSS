@@ -101,6 +101,7 @@
 1. [Counter JS](#counter-js)
 1. [Card Clickable](#card-clickable)
 1. [Cursor Follower](#cursor-follower)
+1. [Customize Link by Extension](#customize-link-by-extension)
 
 ---
 
@@ -2458,6 +2459,26 @@ document.addEventListener('mousemove', (e) => {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7291792582177344773?lang=es">Video Explicación</a></sup>
+
+---
+
+### Customize Link by Extension
+
+```html
+<a href="namePdf.pdf">pdf link</a>
+```
+```css
+a[href$=".pdf" i]::after {
+  content: "";
+  width: 30px; 
+  height: 30px;
+  background-image: url(pdf.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
 
 ---
 
