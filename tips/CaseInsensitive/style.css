@@ -1,0 +1,24 @@
+body {
+  font-size: 22px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  margin-left: 16%;
+  margin-top: 2%;
+}
+
+a[href$=".pdf" i]::after {
+  content: "";
+  width: 30px; height: 30px;
+  background-image: url(pdf.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+a[href$=".zip" i]::after {
+  content: "";
+  width: 30px; height: 30px;
+  background-image: url(zip.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
