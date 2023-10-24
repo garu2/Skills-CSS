@@ -118,8 +118,8 @@ p {
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
-<sup>🎬 <a href="https://www.tiktok.com/@blackcode222/video/7142172810415295750?is_copy_url=1&is_from_webapp=v1&lang=es" target="_blank">Video Explicación</a></sup>
-<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/AlignText/index.html)</sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7142172810415295750?is_copy_url=1&is_from_webapp=v1&lang=es" target="_blank">Video Explicación</a></sup>
+<sup>🚀 <a target="_blank" href="https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/AlignText/index.html">Demo</a></sup>
 
 ---
 
@@ -144,7 +144,7 @@ p {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7156711163252706565?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
-<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/BgProperties/index.html)</sup>
+<sup>🚀 <a target="_blank" href="https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/BgProperties/index.html">Demo</a></sup>
 
 ---
 
@@ -164,7 +164,7 @@ p {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7165603686092197126?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
-<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/BorderGradient/index.html)</sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/BorderGradient/index.html){:target="_blank"}</sup>
 
 ---
 ### Border vs Outline
