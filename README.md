@@ -248,6 +248,7 @@ a:hover {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7140709211977075974?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/BtnStyle/index.html)</sup>
 
 ---
 ### Center DIV with Flex
@@ -274,6 +275,7 @@ section {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7138089519508622597?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/CenterDiv01/index.html)</sup>
 
 ---
 ### Center DIV with Position
@@ -329,6 +331,7 @@ section {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7148561147178781958?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/CenterDivPosition/index.html)</sup>
 
 ---
 ### Dinamic Checkbox 
@@ -350,6 +353,7 @@ span::after {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7168220377687133445?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/CheckBox/index.html)</sup>
 ---
 
 ### Change Color Cursor in textarea
@@ -366,6 +370,7 @@ textarea {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7137035951871724806?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/ColorCursor/index.html)</sup>
 
 ---
 ### Divide Paragraph in 3 columns
@@ -386,6 +391,7 @@ p {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7129241523035639045?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/ColumnDivider/index.html)</sup>
 
 ---
 ### Cursor del maus Personalizado
@@ -408,6 +414,8 @@ html {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7112623043570158854?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/CursorPersonalizado/index.html)</sup>
+
 
 ---
 ### Valores de la Propiedad Cursor
@@ -433,6 +441,7 @@ div {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7131797063527959814?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/CursorTypes/index.html)</sup>
 
 ---
 ### Destacar primera Letra
@@ -452,6 +461,7 @@ p::first-letter {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7112979625520794886?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/DestacarPrimeraLetra/index.html)</sup>
 
 ---
 ### Enumerar Headings
@@ -475,6 +485,7 @@ h1:before {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7111140941829819654?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/EnumerarTitulos/index.html)</sup>
 
 ---
 ### Cambiar el Color de una Imagen
@@ -494,6 +505,7 @@ h1:before {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7113334278645206277?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/FiltrosCSS/index.html)</sup>
 
 ---
 ### Forma Circular a una Imagen
@@ -512,6 +524,7 @@ img {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7127986598993612037?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/FormaCircular/index.html)</sup>
 
 ---
 ### Cambiar la Imagen con un Hover
@@ -540,6 +553,7 @@ img {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7117341080089021701?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/HoverDosImagenes/index.html)</sup>
 
 ---
 ### Mostrar un Atributo como Valor
@@ -558,6 +572,7 @@ a:empty::before {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7112258229052165381?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/Href/index.html)</sup>
 
 ---
 ### Cambiar los iconos de una lista "ul"
@@ -589,6 +604,7 @@ li:before {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7150126448420867334?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/IconListImages/index.html)</sup>
 
 ---
 ### Como rotar una imagen
@@ -608,6 +624,7 @@ img {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7132885484707007749?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/ImagenEspejo/index.html)</sup>
 
 ---
 ### Estilizar un Input "email"
@@ -638,6 +655,7 @@ input {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7159004164352216325?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/InputField/index.html)</sup>
 
 ---
 ### Diferencia entre `last-of-type` y `last-child`
@@ -663,6 +681,7 @@ p:last-child {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7122609043448941830?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/LastOfType/index.html)</sup>
 
 ---
 ### Linear Gradient "Degradado"
@@ -682,6 +701,7 @@ p:last-child {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7153993063839452422?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/LinearGradient/index.html)</sup>
 
 ---
 ### Background with Opacity in Image
@@ -711,6 +731,7 @@ div::after {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7135540971202153733?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/OpacityImage/index.html)</sup>
 
 ---
 ### Flex Order
@@ -738,6 +759,7 @@ div::after {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7166651035304447237?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/OrderFlex/index.html)</sup>
 
 ---
 ### Paralax
@@ -766,6 +788,7 @@ section {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7169251986280369413?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/Paralax/index.html)</sup>
 
 ---
 ### Vertical Word
@@ -783,6 +806,7 @@ p, h2 {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7116661910111538438?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/ParrafoVertical/index.html)</sup>
 
 ---
 ### Overflow Scroll
@@ -803,6 +827,7 @@ div {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7139616834633911557?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?hthttps://github.com/garu2/Skills-CSS/blob/main/tips/ScrollDiv/index.htmltps)</sup>
 
 ---
 ### Customizar la seleccion de texto
@@ -822,6 +847,7 @@ p::selection {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7114439205094280453?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/SeleccionTexto/index.html)</sup>
 
 ---
 ### Separador de una Lista
@@ -846,6 +872,7 @@ ul > li:not(:last-child)::after{
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7114068125536029958?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/SeparadorLista/index.html)</sup>
 
 ---
 ### Text Decoration
@@ -871,6 +898,7 @@ a:hover {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7134351812777217286?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/Text%20Decoration/index.html)</sup>
 
 ---
 ### Alinear Texto y Imagen
@@ -894,6 +922,7 @@ p {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7143547014674976005?is_copy_url=1&is_from_webapp=v1&lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/TextImage/index.html)</sup>
 
 ---
 ### Font Style
