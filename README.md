@@ -2508,6 +2508,7 @@ a[href$=".pdf" i]::after {
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7294050557457747205?lang=es">Video Explicación</a></sup>
 
 ---
 
