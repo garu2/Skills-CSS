@@ -1610,6 +1610,7 @@ a:hover {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7199396821544848645?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/HeartAnimation/index.html)</sup>
 
 ---
 ### Card Slice Effect
@@ -1639,6 +1640,7 @@ a:hover {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7200531103432625414?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/SliceEffect/index.html)</sup>
 
 ---
 ### Background Gradient Animated
@@ -1663,6 +1665,7 @@ a:hover {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7201876476554136837?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/BgGradientAnimated/index.html)</sup>
 
 ---
 ### Loader 3 Dots
@@ -1696,6 +1699,7 @@ a:hover {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7203116830179790085?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/Loader02/index.html)</sup>
 
 ---
 ### Expand Tag 
@@ -1727,6 +1731,7 @@ details {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7204474428460125445?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/ExpandTag/index.html)</sup>
 
 ---
 ### Customize Seacrh Input
@@ -1767,6 +1772,7 @@ input {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7207232913568451846?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/SearchInput/index.html)</sup>
 
 ---
 ### Background Image Text
@@ -1789,6 +1795,7 @@ input {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7208359690676374790?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/BgImageText/index.html)</sup>
 
 ---
 ### Hover Image Scale
@@ -1816,6 +1823,7 @@ img {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7205740752230567174?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/HoverImageScale/index.html)</sup>
 
 ---
 ### Input Shake Validator
@@ -1840,6 +1848,7 @@ input:invalid {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7212412070178852102?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/InputShake/index.html)</sup>
 
 ---
 ### Text Wave Animation
@@ -1872,6 +1881,7 @@ span {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7209809853689203974?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/WaveText/index.html)</sup>
 
 ---
 ### Hover Btn 03 Gradient
@@ -1898,6 +1908,7 @@ a:hover {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7211093623901818117?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/HoverBtn03/index.html)</sup>
 
 ---
 ### Clock Loader
@@ -1930,6 +1941,7 @@ a:hover {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7213392448192580869?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/LoaderClock/index.html)</sup>
 
 ---
 ### Stroke Title
@@ -1947,6 +1959,7 @@ h1 {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7216436182706638085?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https)</sup>
 <sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/TextStroke/index.html)</sup>
 
 ---
@@ -1962,6 +1975,7 @@ span:after {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7226131669231635718?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/DisplayAttr/index.html)</sup>
 
 ---
 ### Circular Image with Text
@@ -1988,6 +2002,7 @@ img {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7223385383197805829?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/ImageCircle/index.html)</sup>
 
 ---
 ### Autocomplete Input
@@ -2022,6 +2037,7 @@ callApi();
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7227648625243999493?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/AutocompleteInput/index.html)</sup>
 
 ---
 ### Hover Zoom Images
@@ -2064,6 +2080,7 @@ callApi();
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7235649200304688389?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/HoverZoonImages/index.html)</sup>
 
 ---
 ### Hover Image Profile
@@ -2100,14 +2117,18 @@ img {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7240957670151179525?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/ProfileRotate/index.html)</sup>
 
 ---
 ### Custom Input Radio
 
 ```html
-<figure>
-  <img src="./profile.jpg" alt="profile">
-</figure>
+<form>
+  <label>Radio1:</label>
+  <input type="radio" name="test">
+  <label>Radio2:</label>
+  <input type="radio" name="test"><br>
+</form>
 ```
 ```css
 input[type=radio] {
@@ -2128,6 +2149,7 @@ input[type=radio]:checked::before {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7243931952372272390?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/CustomRadioButon/index.html)</sup>
 
 ---
 
@@ -2176,6 +2198,7 @@ p {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7248989425122807046?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/Ellipsis%20Multiline/index.html)</sup>
 
 ---
 ### Image Preview Js
@@ -2203,6 +2226,7 @@ file.onchange = (e) => {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7251963208360135942?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/ImagePreview/index.html)</sup>
 
 ---
 ### Marker li Custom Icon
@@ -2229,6 +2253,7 @@ li::marker {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7254343444083100934?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/MarkerLista/index.html)</sup>
 
 ---
 ### Responsive Columns
@@ -2255,6 +2280,7 @@ h2 {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="tiktok.com/@blackcode222/video/7257555450617498886?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/ResposiveColumns/index.html)</sup>
 
 ---
 ### Modal Only with CSS HTML
@@ -2289,6 +2315,7 @@ h2 {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7259765880349920518?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/Modal/index.html)</sup>
 
 ---
 ### Checkbox Custom
@@ -2321,6 +2348,7 @@ label {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7262692010870492421?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/CheckBoxCustom/index.html)</sup>
 
 ---
 ### Show and Hide Password
@@ -2348,6 +2376,7 @@ const showPwd = () => {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7265369703651003654?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/ShowPassword/index.html)</sup>
 
 ---
 ### Shorthands Examples
@@ -2390,6 +2419,7 @@ place-items: center start;
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7270978166628388101?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/Shorthands/index.html)</sup>
 
 ---
 
@@ -2417,6 +2447,7 @@ p:hover {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7275890552627907845?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/GlitchEffect/index.html)</sup>
 
 ---
 ### Typing Effect
@@ -2438,6 +2469,7 @@ h1 {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7280561314085276934?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/TypingEffect/index.html)</sup>
 
 ---
 ### Counter JS
@@ -2462,6 +2494,7 @@ let counter = 0;
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7285541437066808582?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/Counter/index.html)</sup>
 
 ---
 ### Card Clickable
@@ -2487,6 +2520,7 @@ let counter = 0;
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7289205370285853958?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/CardClickable/index.html)</sup>
 
 ---
 
@@ -2514,6 +2548,7 @@ document.addEventListener('mousemove', (e) => {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7291792582177344773?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/CursorFollower/index.html)</sup>
 
 ---
 
@@ -2535,6 +2570,7 @@ a[href$=".pdf" i]::after {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7294050557457747205?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/CaseInsensitive/index.html)</sup>
 
 ---
 
