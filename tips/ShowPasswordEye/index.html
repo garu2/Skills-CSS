@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" href="./style.css">
+  <title>Show Password Eye</title>
+</head>
+
+<body>
+  <div class="input-row">
+    <input type="password" id="field">
+    <p class="eye"><img src="eyeclose.svg"></p>
+  </div>
+
+  <script>
+    const eye = document.querySelector('.eye')
+    eye.addEventListener('click',()=>{
+      showPwd()
+    })
+
+    const icon = document.querySelector('.eye img')
+
+    const showPwd = () => {
+      let input = document.querySelector("#field")
+      if (input.type === "password") {
+        input.type = "text"
+        icon.setAttribute('src', 'eyeopen.svg')
+      } else {
+        input.type = "password"
+        icon.setAttribute('src', 'eyeclose.svg')
+      }
+    }
+  </script>
+</body>
+
+</html>

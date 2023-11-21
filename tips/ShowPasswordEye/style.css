@@ -1,0 +1,26 @@
+body {
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  margin-left: 8%;
+  margin-top: 2%;
+}
+
+.input-row {
+  display: flex;
+  border: 1px solid black;
+  width: fit-content;
+  padding: 1px 5px;
+  border-radius: 10px;
+}
+.input-row p {
+  margin: 0;
+  cursor: pointer;
+}
+.input-row input {
+  border: 0;
+  outline: none;
+}
+.input-row img {
+  width: 25px;
+}
