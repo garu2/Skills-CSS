@@ -102,6 +102,7 @@
 1. [Card Clickable](#card-clickable)
 1. [Cursor Follower](#cursor-follower)
 1. [Customize Link by Extension](#customize-link-by-extension)
+1. [Show and Hide Password Eye](#show-and-hide-password-eye)
 
 ---
 
@@ -2571,6 +2572,57 @@ a[href$=".pdf" i]::after {
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7294050557457747205?lang=es">Video Explicación</a></sup>
 <sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/CaseInsensitive/index.html)</sup>
+
+---
+### Show and Hide Password Eye
+
+```html
+<div class="input-row">
+  <input type="password" id="field">
+  <p class="eye"><img src="eyeclose.svg"></p>
+</div>
+```
+```js
+const eye = document.querySelector('.eye')
+eye.addEventListener('click',()=>{
+  showPwd()
+})
+
+const icon = document.querySelector('.eye img')
+
+const showPwd = () => {
+  let input = document.querySelector("#field")
+  if (input.type === "password") {
+    input.type = "text"
+    icon.setAttribute('src', 'eyeopen.svg')
+  } else {
+    input.type = "password"
+    icon.setAttribute('src', 'eyeclose.svg')
+  }
+}
+```
+```css
+.input-row {
+  display: flex;
+  border: 1px solid black;
+  width: fit-content;
+  padding: 1px 5px;
+  border-radius: 10px;
+}
+.input-row p {
+  margin: 0;
+  cursor: pointer;
+}
+.input-row input {
+  border: 0;
+  outline: none;
+}
+.input-row img {
+  width: 25px;
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7303305968002108677?lang=es">Video Explicación</a></sup>
 
 ---
 
