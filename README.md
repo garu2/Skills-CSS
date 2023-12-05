@@ -103,6 +103,7 @@
 1. [Cursor Follower](#cursor-follower)
 1. [Customize Link by Extension](#customize-link-by-extension)
 1. [Show and Hide Password Eye](#show-and-hide-password-eye)
+1. [Border Animation](#Border Animation)
 
 ---
 
@@ -2623,6 +2624,46 @@ const showPwd = () => {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7303305968002108677?lang=es">Video Explicación</a></sup>
+
+---
+### Border Animation
+
+```html
+<div class="box">Content</div>
+```
+```css
+.box {
+  width: 150px; 
+  height: 100px;
+  background-color: blueviolet;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  z-index: 99;
+}
+.box::before {
+  content: '';
+  width: 70px; 
+  height: 200px;
+  background-color: white;
+  position: absolute;
+  animation: 4s rotate linear infinite;
+  z-index: -1;
+}
+.box::after {
+  content: '';
+  background-color: gold;
+  position: absolute;
+  inset: 5px;
+  z-index: -1;
+}
+@keyframes rotate {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
 
 ---
 
