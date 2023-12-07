@@ -103,7 +103,7 @@
 1. [Cursor Follower](#cursor-follower)
 1. [Customize Link by Extension](#customize-link-by-extension)
 1. [Show and Hide Password Eye](#show-and-hide-password-eye)
-1. [Border Animation](#Border Animation)
+1. [Border Animation](#border-animation)
 
 ---
 
@@ -2664,6 +2664,7 @@ const showPwd = () => {
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7309630622375447814?lang=es">Video Explicación</a></sup>
 
 ---
 
