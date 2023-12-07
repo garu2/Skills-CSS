@@ -2572,7 +2572,7 @@ a[href$=".pdf" i]::after {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7294050557457747205?lang=es">Video Explicación</a></sup>
-<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/CaseInsensitive/index.html)</sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/ShowPasswordEye/index.html)</sup>
 
 ---
 ### Show and Hide Password Eye
@@ -2624,6 +2624,7 @@ const showPwd = () => {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7303305968002108677?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/CaseInsensitive/index.html)</sup>
 
 ---
 ### Border Animation
@@ -2665,6 +2666,7 @@ const showPwd = () => {
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7309630622375447814?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/BorderAnimation/index.html)</sup>
 
 ---
 
