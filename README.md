@@ -104,6 +104,7 @@
 1. [Customize Link by Extension](#customize-link-by-extension)
 1. [Show and Hide Password Eye](#show-and-hide-password-eye)
 1. [Border Animation](#border-animation)
+1. [Christmas Tree SVG](#christmas-tree-svg)
 
 ---
 
@@ -2667,6 +2668,21 @@ const showPwd = () => {
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7309630622375447814?lang=es">Video Explicación</a></sup>
 <sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/BorderAnimation/index.html)</sup>
+
+---
+### Christmas Tree SVG
+
+```html
+<svg width="200" height="300" viewBox="-50 -50 200 300">
+  <rect x="40" y="95" width="20" height="30" fill="Brown" />
+
+  <polygon points="50,20 100,100 0,100" fill="DarkGreen"/>
+      
+  <polygon points="50,0 90,60 10,60" fill="Green"/> 
+</svg>
+```
+
+<sup>⬆️ [back to table of contents](#tips)  </sup>
 
 ---
 
