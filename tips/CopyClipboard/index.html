@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" href="./style.css">
+  <title>Copy Clipboard</title>
+</head>
+
+<body>
+
+<input type="text" class="input">
+<button onclick="copyToClipboard()">
+  Copiar al Portapapeles
+</button>
+
+<script>
+  function copyToClipboard(){
+    const copyText = document.querySelector('.input');
+    
+    copyText.select();
+    //document.execCommand('copy');
+    navigator.clipboard.writeText(copyText.value);
+
+  }
+</script>
+
+</body>
+</html>
