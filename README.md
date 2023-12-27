@@ -105,6 +105,7 @@
 1. [Show and Hide Password Eye](#show-and-hide-password-eye)
 1. [Border Animation](#border-animation)
 1. [Christmas Tree SVG](#christmas-tree-svg)
+1. [Copy Clipboard](#copy-clipboard)
 
 ---
 
@@ -2680,6 +2681,26 @@ const showPwd = () => {
       
   <polygon points="50,0 90,60 10,60" fill="Green"/> 
 </svg>
+```
+
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+
+---
+### Copy Clipboard
+
+```html
+<input type="text" class="input">
+<button onclick="copyToClipboard()">
+  Copiar al Portapapeles
+</button>
+```
+```js
+function copyToClipboard(){
+  const copyText = document.querySelector('.input'); 
+  copyText.select();
+  //document.execCommand('copy');
+  navigator.clipboard.writeText(copyText.value);
+  }
 ```
 
 <sup>⬆️ [back to table of contents](#tips)  </sup>
