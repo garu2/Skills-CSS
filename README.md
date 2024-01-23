@@ -2684,6 +2684,7 @@ const showPwd = () => {
 ```
 
 <sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7312969181689859334?lang=es">Video Explicación</a></sup>
 
 ---
 ### Copy Clipboard
@@ -2704,6 +2705,7 @@ function copyToClipboard(){
 ```
 
 <sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7318131323716078854?lang=es">Video Explicación</a></sup>
 
 ---
 
