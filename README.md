@@ -106,6 +106,7 @@
 1. [Border Animation](#border-animation)
 1. [Christmas Tree SVG](#christmas-tree-svg)
 1. [Copy Clipboard](#copy-clipboard)
+1. [Text Bg Gradient Animated](#text-bg-gradient-animated)
 
 ---
 
@@ -2708,6 +2709,37 @@ function copyToClipboard(){
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7318131323716078854?lang=es">Video Explicación</a></sup>
 <sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/CopyClipboard/index.html)</sup>
+
+---
+
+### Text Bg Gradient Animated
+
+```html
+<h2>BLACKCODE</h2>
+```
+```css
+h2 {
+  background: linear-gradient(to right, blueviolet, cyan, blueviolet);
+  width: fit-content;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-size: 200% auto;
+  animation: 3s gradient linear infinite;
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 75%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 75%;
+  }
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
 
 ---
 
