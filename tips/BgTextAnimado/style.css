@@ -1,0 +1,34 @@
+body {
+  font-size: 30px;
+  font-family: fantasy;
+  font-weight: 600;
+  margin-left: 10%;
+  margin-top: 0%;
+}
+
+h2 {
+  margin-top: 20px;
+}
+
+h2 {
+  background: linear-gradient(to right, blueviolet, cyan, blueviolet);
+  width: fit-content;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-size: 200% auto;
+  animation: 3s gradient linear infinite;
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 75%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 75%;
+  }
+}
