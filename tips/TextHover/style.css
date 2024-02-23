@@ -13,10 +13,11 @@ p {
   color: transparent;
   transition: 0.5s;
   text-shadow: 5px 5px 0px #07bccc,
-               10px 10px 0px #e601c0,
-               15px 15px 0px #e9019a,
-               20px 20px 0px #f40468;
+    10px 10px 0px #e601c0,
+    15px 15px 0px #e9019a,
+    20px 20px 0px #f40468;
 }
+
 p:hover {
   text-shadow: none;
 }

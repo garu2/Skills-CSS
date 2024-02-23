@@ -107,6 +107,7 @@
 1. [Christmas Tree SVG](#christmas-tree-svg)
 1. [Copy Clipboard](#copy-clipboard)
 1. [Text Bg Gradient Animated](#text-bg-gradient-animated)
+1. [Text Hover](#text-hover)
 
 ---
 
@@ -2737,6 +2738,32 @@ h2 {
   100% {
     background-position: 0% 75%;
   }
+}
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+
+---
+### Text Hover
+
+```html
+<p>Hover</p>
+```
+```css
+p {
+  -webkit-text-stroke: 4px #fff;
+  font-size: 130px;
+  margin: 0;
+  font-weight: 800;
+  color: transparent;
+  transition: 0.5s;
+  text-shadow: 5px 5px 0px #07bccc,
+    10px 10px 0px #e601c0,
+    15px 15px 0px #e9019a,
+    20px 20px 0px #f40468;
+}
+
+p:hover {
+  text-shadow: none;
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
