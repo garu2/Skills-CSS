@@ -2741,6 +2741,8 @@ h2 {
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7327814414223101189?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/BgTextAnimado/index.html)</sup>
 
 ---
 ### Text Hover
@@ -2767,6 +2769,8 @@ p:hover {
 }
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
+<sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7338927591664930053?lang=es">Video Explicación</a></sup>
+<sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/TextHover/index.html)</sup>
 
 ---
 
