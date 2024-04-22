@@ -108,6 +108,7 @@
 1. [Copy Clipboard](#copy-clipboard)
 1. [Text Bg Gradient Animated](#text-bg-gradient-animated)
 1. [Text Hover](#text-hover)
+1. [Btn Hover Ripple](#btn-hover-ripple)
 
 ---
 
@@ -2771,6 +2772,61 @@ p:hover {
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 <sup>🎬 <a target="_blank" href="https://www.tiktok.com/@blackcode222/video/7338927591664930053?lang=es">Video Explicación</a></sup>
 <sup>🚀 [Demo](https://htmlpreview.github.io/?https://github.com/garu2/Skills-CSS/blob/main/tips/TextHover/index.html)</sup>
+
+---
+### Btn Hover Ripple
+
+```html
+<a href="#" class="btn">
+  <span>Button</span>
+</a>
+```
+```css
+.btn {
+  background-color: lightcyan;
+  padding: 20px 40px;
+  border-radius: 5px;
+  text-decoration: none;
+  color: black;
+  position: absolute;
+  overflow: hidden;
+}
+
+.btn span {
+  position: relative;
+  z-index: 1;
+}
+
+.btn::before {
+  content: "";
+  width: 0px;
+  height: 0px;
+  background-color: deepskyblue;
+  position: absolute;
+  left: var(--xPos);
+  top: var(--yPos);
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  transition: width 0.5s, height 0.5s;
+}
+
+.btn:hover::before {
+  width: 340px;
+  height: 340px;
+}
+```
+```js
+const btn = document.querySelector('.btn')
+
+btn.addEventListener('mouseover', (e) => {
+  let x = e.pageX - btn.offsetLeft;
+  let y = e.pageY - btn.offsetTop;
+
+  btn.style.setProperty('--xPos', x + 'px')
+  btn.style.setProperty('--yPos', y + 'px')
+})
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
 
 ---
 
