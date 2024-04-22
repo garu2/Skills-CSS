@@ -1,0 +1,40 @@
+body {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  margin-left: 16%;
+  margin-top: 5%;
+}
+
+.btn {
+  background-color: lightcyan;
+  padding: 20px 40px;
+  border-radius: 5px;
+  text-decoration: none;
+  color: black;
+  position: absolute;
+  overflow: hidden;
+}
+
+.btn span {
+  position: relative;
+  z-index: 1;
+}
+
+.btn::before {
+  content: "";
+  width: 0px;
+  height: 0px;
+  background-color: deepskyblue;
+  position: absolute;
+  left: var(--xPos);
+  top: var(--yPos);
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  transition: width 0.5s, height 0.5s;
+}
+
+.btn:hover::before {
+  width: 340px;
+  height: 340px;
+}
