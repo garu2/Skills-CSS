@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" href="./style.css">
+  <title>Scroll Progress Bar</title>
+</head>
+
+<body>
+  <div id="bar"></div>
+
+  <script>
+    // Simular contenido en la pagina
+    document.body.appendChild(document.createTextNode(
+      "Lorem Ipsum Lorem Ipsum ".repeat(1000)));
+
+    // Código necesario para la funcionalidad
+    let bar = document.querySelector('#bar');
+    window.addEventListener('scroll', () => {
+      let max = document.body.scrollHeight - innerHeight;
+      bar.style.width = (pageYOffset / max) * 100 + '%';
+    })
+  </script>
+</body>
+
+</html>

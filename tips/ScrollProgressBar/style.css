@@ -1,0 +1,12 @@
+body {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 6%;
+}
+#bar {
+  width: 0;
+  border-bottom: 10px solid blueviolet;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
