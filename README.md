@@ -109,6 +109,7 @@
 1. [Text Bg Gradient Animated](#text-bg-gradient-animated)
 1. [Text Hover](#text-hover)
 1. [Btn Hover Ripple](#btn-hover-ripple)
+1. [Scroll Progress Bar](#scroll-progress-bar)
 
 ---
 
@@ -2824,6 +2825,34 @@ btn.addEventListener('mouseover', (e) => {
 
   btn.style.setProperty('--xPos', x + 'px')
   btn.style.setProperty('--yPos', y + 'px')
+})
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+
+---
+### Scroll Progress Bar
+
+```html
+<div id="bar"></div>
+```
+```css
+#bar {
+  width: 0;
+  border-bottom: 10px solid blueviolet;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+```
+```js
+// Simular contenido en la pagina
+document.body.appendChild(document.createTextNode("Lorem Ipsum Lorem Ipsum ".repeat(1000)));
+
+// Código necesario para la funcionalidad
+let bar = document.querySelector('#bar');
+window.addEventListener('scroll', () => {
+  let max = document.body.scrollHeight - innerHeight;
+  bar.style.width = (pageYOffset / max) * 100 + '%';
 })
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
