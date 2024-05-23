@@ -1,0 +1,14 @@
+body {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 16%;
+  margin-top: 5%;
+}
+
+a {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px 20px;
+  text-decoration: none;
+  color: black;
+}
