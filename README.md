@@ -110,6 +110,7 @@
 1. [Text Hover](#text-hover)
 1. [Btn Hover Ripple](#btn-hover-ripple)
 1. [Scroll Progress Bar](#scroll-progress-bar)
+1. [Download Button](#download-button)
 
 ---
 
@@ -2854,6 +2855,25 @@ window.addEventListener('scroll', () => {
   let max = document.body.scrollHeight - innerHeight;
   bar.style.width = (pageYOffset / max) * 100 + '%';
 })
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+
+---
+### Download Button
+
+```html
+<a href="abstract.jpeg" download="NewImage">
+  Download
+</a>
+```
+```css
+a {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px 20px;
+  text-decoration: none;
+  color: black;
+}
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 
