@@ -111,6 +111,7 @@
 1. [Btn Hover Ripple](#btn-hover-ripple)
 1. [Scroll Progress Bar](#scroll-progress-bar)
 1. [Download Button](#download-button)
+1. [Input File](#input-file)
 
 ---
 
@@ -2874,6 +2875,21 @@ a {
   text-decoration: none;
   color: black;
 }
+```
+<sup>⬆️ [back to table of contents](#tips)  </sup>
+
+---
+### Input File
+
+```html
+<input type="file" id="fileInput" accept=".jpg, .png" multiple required>
+```
+```js
+const file = document.querySelector('#fileInput')
+file.addEventListener('change', (e) => {
+  const files = e.target.files;
+  console.log(files);
+})
 ```
 <sup>⬆️ [back to table of contents](#tips)  </sup>
 
