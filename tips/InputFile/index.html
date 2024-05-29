@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" href="./style.css">
+  <title>Input File</title>
+</head>
+
+<body>
+  <input type="file" id="fileInput" accept=".jpg, .png" multiple required>
+</body>
+
+<script>
+  const file =
+    document.querySelector('#fileInput')
+
+  file.addEventListener('change', (e) => {
+    const files = e.target.files;
+    console.log(files);
+  })
+
+</script>
+
+</html>
