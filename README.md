@@ -3,7 +3,7 @@
    <img height="100" src="https://res.cloudinary.com/dqd5x0s7w/image/upload/v1667315329/github/css-tips_urqtz3.png" alt="css image">
 
  <h1>Tips CSS</h1>
- ⚡️⭐️🌟Una colección de tips para ayudarte a mejorar sus habilidades de CSS.🌟⭐️⚡️
+ ⚡️⭐️🌟Una colección de tips para ayudarte a mejorar tus habilidades de CSS.🌟⭐️⚡️
 </div>
 
 ## Tips
